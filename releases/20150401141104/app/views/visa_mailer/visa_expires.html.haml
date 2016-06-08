@@ -1,0 +1,8 @@
+Hi #{@visa.user.first_name},
+%br
+Your visa, #{@visa.number}, for #{@visa.country.andand.name} will be expiring on #{l(@visa.expires_on)}.
+%br
+Please contact #{SITE_BRAND} if you would like to renew your visa.
+%br
+This request can be sent from #{link_to(SITE_BRAND, root_url)}.
+

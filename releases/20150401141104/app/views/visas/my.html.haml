@@ -1,0 +1,4 @@
+- title('My Visas')
+= form_header('My Visas')
+= table(%w(# Visas Actions), render({:partial => 'visa', :collection => @visas}))
+= paginate(@visas)

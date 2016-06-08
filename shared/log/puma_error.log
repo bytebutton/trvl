@@ -1,0 +1,1674 @@
+=== puma startup: 2014-02-08 16:16:47 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+- Goodbye!
+=== puma startup: 2014-02-08 16:21:14 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+- Goodbye!
+=== puma startup: 2014-02-08 17:57:21 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.7.1, codename: Earl of Sandwich Partition
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-02-11 15:27:26 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.7.1, codename: Earl of Sandwich Partition
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-02-13 13:58:08 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+- Goodbye!
+=== puma startup: 2014-02-20 19:37:30 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+- Goodbye!
+=== puma startup: 2014-02-27 18:54:49 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.7.1, codename: Earl of Sandwich Partition
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-02-28 09:00:44 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.7.1, codename: Earl of Sandwich Partition
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-04 14:46:39 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.7.1, codename: Earl of Sandwich Partition
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-05 12:23:10 +0000 ===
+[]
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.7.1, codename: Earl of Sandwich Partition
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-05 14:11:06 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-06 14:07:54 +0000 ===
+[RailsAdmin] Could not load model ClearMigration, assuming model is non existing. (Unable to autoload constant ClearMigration, expected /home/ubuntu/travel-link/releases/20140306140647/lib/migration/clear_migration.rb to define it)
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-06 14:39:21 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-06 14:40:18 +0000 ===
+[RailsAdmin] Could not load model ClearMigration, assuming model is non existing. (Unable to autoload constant ClearMigration, expected /home/ubuntu/travel-link/releases/20140306144018/lib/migration/clear_migration.rb to define it)
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-06 15:43:06 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 06:34:17 +0000 ===
+2014-03-07T06:34:43Z 2461 TID-rox4c INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 06:36:52 +0000 ===
+2014-03-07T06:36:53Z 5465 TID-134gc4 INFO: Sidekiq client with redis options {}
+2014-03-07T06:36:53Z 5465 TID-134gl0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 07:49:37 +0000 ===
+2014-03-07T07:49:38Z 12082 TID-19sapc INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 07:54:40 +0000 ===
+2014-03-07T07:54:40Z 15171 TID-11i334 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 08:03:14 +0000 ===
+2014-03-07T08:03:14Z 18385 TID-48yng INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 08:04:37 +0000 ===
+2014-03-07T08:04:37Z 21363 TID-147hlk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 08:07:18 +0000 ===
+2014-03-07T08:07:18Z 24413 TID-12ik54 INFO: Sidekiq client with redis options {}
+2014-03-07T08:07:18Z 24413 TID-12ijw8 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 08:14:46 +0000 ===
+2014-03-07T08:14:46Z 27603 TID-ydm9c INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 08:24:54 +0000 ===
+2014-03-07T08:24:54Z 4035 TID-z4k74 INFO: Sidekiq client with redis options {}
+2014-03-07T08:24:54Z 4035 TID-z4kg0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 08:47:24 +0000 ===
+2014-03-07T08:47:24Z 9323 TID-10p2es INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 09:00:24 +0000 ===
+2014-03-07T09:00:25Z 16385 TID-11kpf8 INFO: Sidekiq client with redis options {}
+2014-03-07T09:00:25Z 16385 TID-11kp6c INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 09:51:16 +0000 ===
+2014-03-07T09:51:16Z 22951 TID-122cps INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 10:01:17 +0000 ===
+2014-03-07T10:01:17Z 30037 TID-wjdlk INFO: Sidekiq client with redis options {}
+2014-03-07T10:01:17Z 30037 TID-wjdug INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-07 11:26:01 +0000 ===
+2014-03-07T11:26:02Z 3820 TID-k1fy0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-10 08:03:03 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.0 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-10 12:35:11 +0000 ===
+2014-03-10T12:35:17Z 17762 TID-ovnktvx40 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-10 13:08:22 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-11 11:58:16 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-11 14:35:56 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-11 14:39:04 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-11 14:57:42 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-12 07:57:43 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-12 08:52:12 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-12 11:17:15 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-12 11:27:15 +0000 ===
+2014-03-12T11:30:48Z 20552 TID-121amo INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-12 11:36:31 +0000 ===
+2014-03-12T11:36:32Z 24447 TID-4ual0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-12 11:41:24 +0000 ===
+2014-03-12T11:41:25Z 28286 TID-vmdsg INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-13 14:57:28 +0000 ===
+2014-03-14T13:10:11Z 1096 TID-1863m0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-14 13:10:42 +0000 ===
+2014-03-14T13:10:42Z 5675 TID-28kog INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-14 13:14:26 +0000 ===
+2014-03-14T13:14:27Z 9529 TID-adtsk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-14 13:19:25 +0000 ===
+2014-03-14T13:19:26Z 13379 TID-4mcys INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-14 13:31:06 +0000 ===
+2014-03-14T13:31:06Z 17534 TID-2yn7o INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-14 13:34:06 +0000 ===
+2014-03-14T13:34:07Z 21314 TID-bqmco INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-14 13:57:49 +0000 ===
+2014-03-14T13:57:50Z 25743 TID-39k44 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-14 19:57:09 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-16 08:34:06 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-16 08:48:24 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 08:45:03 +0000 ===
+2014-03-17T08:49:25Z 10336 TID-11almk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 08:55:39 +0000 ===
+2014-03-17T08:55:39Z 13618 TID-zc5fs INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 09:01:03 +0000 ===
+2014-03-17T09:01:04Z 17491 TID-14v3c4 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 09:48:08 +0000 ===
+2014-03-17T09:48:08Z 23002 TID-13lv2w INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 10:06:02 +0000 ===
+2014-03-17T10:06:02Z 27450 TID-14g2hk INFO: Sidekiq client with redis options {}
+2014-03-17T10:06:02Z 27450 TID-14g1zs INFO: Sidekiq client with redis options {}
+2014-03-17T10:06:02Z 27450 TID-14g28o INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 10:12:05 +0000 ===
+2014-03-17T10:12:05Z 31472 TID-yvadw INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 10:27:48 +0000 ===
+2014-03-17T10:27:48Z 3270 TID-163h94 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 10:52:46 +0000 ===
+2014-03-17T10:52:46Z 7781 TID-143sp4 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 11:09:27 +0000 ===
+2014-03-17T11:09:28Z 12215 TID-19wgw0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 11:13:03 +0000 ===
+2014-03-17T11:13:04Z 16079 TID-15aqzs INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 11:54:45 +0000 ===
+2014-03-17T11:54:45Z 21349 TID-15dvcs INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 12:15:13 +0000 ===
+2014-03-17T12:15:14Z 25696 TID-3u9hg INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 12:47:26 +0000 ===
+2014-03-17T12:47:26Z 30384 TID-ycphw INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 13:08:45 +0000 ===
+2014-03-17T13:25:25Z 1855 TID-osq5s0eak INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 14:33:59 +0000 ===
+2014-03-17T14:38:22Z 6445 TID-14jk8s INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 14:50:36 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 17:07:58 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 17:38:14 +0000 ===
+2014-03-17T17:39:30Z 19855 TID-ovlmzww8k INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 17:48:56 +0000 ===
+2014-03-17T17:48:57Z 23863 TID-11k8ms INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-17 18:26:01 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-18 11:39:23 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-18 11:44:21 +0000 ===
+2014-03-18T11:46:31Z 3255 TID-16o3qk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-18 12:13:23 +0000 ===
+2014-03-18T12:13:24Z 8256 TID-19tmrc INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-21 12:56:27 +0000 ===
+2014-03-21T12:56:28Z 15997 TID-10ur0w INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-21 13:00:11 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-21 13:36:41 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-24 07:51:21 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-24 14:07:57 +0000 ===
+2014-03-25T05:25:52Z 1463 TID-org1eyx9c INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-25 05:37:47 +0000 ===
+2014-03-25T05:37:48Z 5943 TID-11a3ws INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-25 07:34:56 +0000 ===
+2014-03-25T07:34:57Z 14889 TID-18rfww INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-25 10:20:21 +0000 ===
+2014-03-25T10:20:22Z 25617 TID-1a1bw0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-28 14:15:17 +0000 ===
+2014-03-28T14:16:28Z 10389 TID-nvpds INFO: Sidekiq client with redis options {}
+D, [2014-03-28T14:25:58.386793 #10389] DEBUG -- : HTTPI GET request to staging.timatic.aero (net_http)
+I, [2014-03-28T14:25:58.753371 #10389]  INFO -- : SOAP request: https://staging.timatic.aero/timaticwebservices/timatic3services
+I, [2014-03-28T14:25:58.753506 #10389]  INFO -- : SOAPAction: "processLogin", Content-Type: text/xml;charset=UTF-8, Content-Length: 493
+D, [2014-03-28T14:25:58.753605 #10389] DEBUG -- : <?xml version="1.0" encoding="UTF-8"?><env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.opentravel.org/OTA/2003/05/beta" xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Body><tns:processLogin><tns:checkNameRequest><tns:requestID>808</tns:requestID><tns:username>TIMWEB1</tns:username><tns:subUsername>ProLinkXML</tns:subUsername></tns:checkNameRequest></tns:processLogin></env:Body></env:Envelope>
+D, [2014-03-28T14:25:58.753819 #10389] DEBUG -- : HTTPI POST request to staging.timatic.aero (net_http)
+I, [2014-03-28T14:25:59.269836 #10389]  INFO -- : SOAP response (status 200)
+D, [2014-03-28T14:25:59.270015 #10389] DEBUG -- : <?xml version="1.0" encoding="utf-8" standalone="yes"?><env:Envelope xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><env:Header/><env:Body><m:processLoginResponse xmlns:m="http://www.opentravel.org/OTA/2003/05/beta"><checkNameResponse xmlns="http://www.opentravel.org/OTA/2003/05/beta"><requestID>808</requestID><randomNumber>6935150761362131538</randomNumber><sessionID>6d4863db:144f8a75cdf:-7beb</sessionID></checkNameResponse></m:processLoginResponse></env:Body></env:Envelope>
+I, [2014-03-28T14:25:59.274620 #10389]  INFO -- : SOAP request: https://staging.timatic.aero/timaticwebservices/timatic3services
+I, [2014-03-28T14:25:59.274711 #10389]  INFO -- : SOAPAction: "processLogin", Content-Type: text/xml;charset=UTF-8, Content-Length: 598
+D, [2014-03-28T14:25:59.274831 #10389] DEBUG -- : <?xml version="1.0" encoding="UTF-8"?><env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.opentravel.org/OTA/2003/05/beta" xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header><m:sessionID xmlns:m="http://www.opentravel.org/OTA/2003/05/beta">6d4863db:144f8a75cdf:-7beb</m:sessionID></env:Header><env:Body><tns:processLogin><tns:loginRequest><tns:requestID>808</tns:requestID><tns:loginInfo>d811c86bb9327e7f5581c33645b9de2d</tns:loginInfo></tns:loginRequest></tns:processLogin></env:Body></env:Envelope>
+D, [2014-03-28T14:25:59.274998 #10389] DEBUG -- : HTTPI POST request to staging.timatic.aero (net_http)
+I, [2014-03-28T14:25:59.766962 #10389]  INFO -- : SOAP response (status 200)
+D, [2014-03-28T14:25:59.767135 #10389] DEBUG -- : <?xml version="1.0" encoding="utf-8" standalone="yes"?><env:Envelope xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><env:Header><m:sessionID xmlns:tns="http://www.opentravel.org/OTA/2003/05/beta" xmlns:m="http://www.opentravel.org/OTA/2003/05/beta">6d4863db:144f8a75cdf:-7beb</m:sessionID></env:Header><env:Body><m:processLoginResponse xmlns:m="http://www.opentravel.org/OTA/2003/05/beta"><loginResponse xmlns="http://www.opentravel.org/OTA/2003/05/beta"><requestID>808</requestID><successfulLogin>true</successfulLogin></loginResponse></m:processLoginResponse></env:Body></env:Envelope>
+I, [2014-03-28T14:25:59.799865 #10389]  INFO -- : SOAP request: https://staging.timatic.aero/timaticwebservices/timatic3services
+I, [2014-03-28T14:25:59.799965 #10389]  INFO -- : SOAPAction: "processRequest", Content-Type: text/xml;charset=UTF-8, Content-Length: 973
+D, [2014-03-28T14:25:59.800030 #10389] DEBUG -- : <?xml version="1.0" encoding="UTF-8"?><env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.opentravel.org/OTA/2003/05/beta" xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header><m:sessionID xmlns:m="http://www.opentravel.org/OTA/2003/05/beta">6d4863db:144f8a75cdf:-7beb</m:sessionID></env:Header><env:Body><tns:processRequest><tns:documentRequest><tns:requestID>809</tns:requestID><tns:residentCountryCode>al</tns:residentCountryCode><tns:nationalityCode>al</tns:nationalityCode><tns:destinationCode>cn</tns:destinationCode><tns:documentType>passport</tns:documentType><tns:section>Passport,Visa</tns:section><tns:stayDuration><tns:days>0</tns:days></tns:stayDuration><tns:documentGroup>N</tns:documentGroup><tns:issueCountryCode>us</tns:issueCountryCode><tns:arrivalDate>2014-03-28T00:00:00</tns:arrivalDate></tns:documentRequest></tns:processRequest></env:Body></env:Envelope>
+D, [2014-03-28T14:25:59.800201 #10389] DEBUG -- : HTTPI POST request to staging.timatic.aero (net_http)
+I, [2014-03-28T14:26:00.345563 #10389]  INFO -- : SOAP response (status 200)
+D, [2014-03-28T14:26:00.345756 #10389] DEBUG -- : <?xml version="1.0" encoding="utf-8" standalone="yes"?><env:Envelope xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><env:Header><m:sessionID xmlns:tns="http://www.opentravel.org/OTA/2003/05/beta" xmlns:m="http://www.opentravel.org/OTA/2003/05/beta">6d4863db:144f8a75cdf:-7beb</m:sessionID></env:Header><env:Body><m:processRequestResponse xmlns:m="http://www.opentravel.org/OTA/2003/05/beta"><documentResponse xmlns="http://www.opentravel.org/OTA/2003/05/beta"><requestID>809</requestID><customerCode>11961</customerCode><documentCheckResponse><sufficientDocumentation>Conditional</sufficientDocumentation><documentCountryInformation><countryCode>CN</countryCode><countryName>China (People's Rep.)</countryName><destinationCode>cn</destinationCode><sufficientDocumentation>Conditional</sufficientDocumentation><sectionInformation><sectionName>Passport</sectionName><documentParagraph paragraphId="25697"><paragraphType>Requirement</paragraphType><paragraphText><p>Passport required.</p></paragraphText></documentParagraph><subsectionInformation><subsectionName>Document Validity:</subsectionName><documentParagraph paragraphId="25848"><paragraphType>Requirement</paragraphType><paragraphText><p>Passport and/or passport replacing documents must be valid on arrival.</p></paragraphText></documentParagraph></subsectionInformation><subsectionInformation><subsectionName>Admission and Transit Restrictions:</subsectionName><documentParagraph paragraphId="47336"><paragraphType>Restriction</paragraphType><paragraphText>Admission refused to holders of non-biometric passports issued to nationals of Albania. </paragraphText></documentParagraph></subsectionInformation><subsectionInformation><subsectionName>Minors:</subsectionName><documentParagraph paragraphId="46116"><paragraphType>Information</paragraphType><paragraphText>Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. </paragraphText></documentParagraph></subsectionInformation></sectionInformation><sectionInformation><sectionName>Visa</sectionName><documentParagraph paragraphId="25727"><paragraphType>Requirement</paragraphType><paragraphText><p>Visa required.</p></paragraphText></documentParagraph><subsectionInformation><subsectionName>Visa Exemptions:</subsectionName><documentParagraph paragraphId="25747"><paragraphType>Exception</paragraphType><paragraphText>A max. stay of 6 days for tourists traveling in a group organised by a Chinese international tour operator or registered travel agency, provided:<br/>- arriving from Hong Kong or Macao to take a trip to the Zhujiang Delta in Guangdong province; and<br/>- arriving at/departing from Dongguan (DGM), Guangzhou (CAN), Huizhou (HUZ), Shantou (SWA), Shenzhen (SZX) or Zhuhai (ZUH); and<br/>- being a national of a country having diplomatic relations with China (People's Rep.).</paragraphText></documentParagraph></subsectionInformation><subsectionInformation><subsectionName>Visa Issuance:</subsectionName><documentParagraph paragraphId="41238"><paragraphType>Information</paragraphType><paragraphText>A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. </paragraphText></documentParagraph></subsectionInformation><subsectionInformation><subsectionName>Additional Information:</subsectionName><documentParagraph paragraphId="2557"><paragraphType>Information</paragraphType><paragraphText>Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. </paragraphText></documentParagraph><documentParagraph paragraphId="28707"><paragraphType>Information</paragraphType><paragraphText><p>Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality.</p></paragraphText></documentParagraph><documentParagraph paragraphId="45077"><paragraphType>Information</paragraphType><paragraphText>When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). </paragraphText></documentParagraph><documentParagraph paragraphId="29931"><paragraphType>Information</paragraphType><paragraphText>Those travelling to Tibet will also require a special Tibet Entry Permit.</paragraphText></documentParagraph></subsectionInformation><subsectionInformation><subsectionName>Minors:</subsectionName><documentParagraph paragraphId="46117"><paragraphType>Information</paragraphType><paragraphText>An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. </paragraphText></documentParagraph></subsectionInformation></sectionInformation></documentCountryInformation></documentCheckResponse></documentResponse></m:processRequestResponse></env:Body></env:Envelope>
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-03-30 16:31:28 +0000 ===
+2014-03-31T18:34:11Z 15869 TID-orriouzeg INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-01 08:44:19 +0000 ===
+2014-04-01T10:29:52Z 20457 TID-tthc8 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-01 10:30:51 +0000 ===
+2014-04-01T10:30:51Z 25959 TID-12bi0s INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-01 10:32:49 +0000 ===
+2014-04-01T10:32:50Z 29670 TID-156lwk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-01 11:30:49 +0000 ===
+2014-04-01T11:52:00Z 2908 TID-n9z44 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-02 13:35:49 +0000 ===
+2014-04-03T11:18:17Z 7712 TID-xnd4w INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-03 15:06:40 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-03 15:12:48 +0000 ===
+2014-04-03T15:58:52Z 16502 TID-zoy0w INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-04 14:13:18 +0000 ===
+2014-04-04T14:16:12Z 20615 TID-mowlg INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.0-p0), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-04 14:45:51 +0000 ===
+* Restarting...
+Refreshing Gemfile
+=== puma startup: 2014-04-09 13:12:39 +0000 ===
+2014-04-09T13:14:59Z 5175 TID-or8indbyc INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-09 14:01:49 +0000 ===
+2014-04-09T14:01:50Z 9505 TID-98c0g INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-10 07:36:18 +0000 ===
+2014-04-10T10:15:17Z 14442 TID-llerw INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-11 12:21:11 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-11 12:27:06 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-11 12:46:59 +0000 ===
+2014-04-16T12:20:08Z 26772 TID-nmlj0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-16 12:49:13 +0000 ===
+2014-04-16T12:49:14Z 13556 TID-17lyys INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-24 13:40:07 +0000 ===
+2014-04-24T13:40:07Z 15841 TID-16l6kg INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-24 14:08:17 +0000 ===
+2014-04-24T14:08:17Z 20299 TID-16mhls INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-04-25 13:09:43 +0000 ===
+2014-04-25T13:13:13Z 24736 TID-sta08 INFO: Sidekiq client with redis options {}
+- Gracefully stopping, waiting for requests to finish
+- Goodbye!
+=== puma startup: 2014-04-29 17:38:15 +0000 ===
+2014-05-01T11:52:58Z 5723 TID-ovont50hc INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-05 20:08:19 +0000 ===
+2014-05-06T13:21:54Z 16334 TID-qz3yw INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-06 14:06:31 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-06 14:07:43 +0000 ===
+2014-05-06T14:20:32Z 26537 TID-13xxog INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-06 14:32:08 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-07 14:19:22 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-12 13:09:34 +0000 ===
+2014-05-12T13:38:51Z 12128 TID-lsuxs INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-12 13:44:27 +0000 ===
+2014-05-12T13:44:32Z 15504 TID-14012c INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-13 10:13:37 +0000 ===
+2014-05-13T14:21:44Z 19357 TID-16kfgc INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-13 14:40:53 +0000 ===
+2014-05-13T14:48:49Z 24200 TID-osxj498v4 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-14 06:35:03 +0000 ===
+2014-05-14T06:37:02Z 22011 TID-kgbnk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.1 (ruby 2.1.1-p76), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-05-21 11:26:39 +0000 ===
+2014-05-28T15:31:01Z 25850 TID-15enwk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+=== puma startup: 2014-06-11 09:00:53 +0000 ===
+2014-06-11T09:00:53Z 23991 TID-mnnlg INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-11 09:02:47 +0000 ===
+2014-06-11T09:02:47Z 27540 TID-pworc INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-11 09:05:58 +0000 ===
+2014-06-11T09:05:58Z 31701 TID-q96k4 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-11 11:38:25 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-11 11:50:55 +0000 ===
+2014-06-11T11:53:16Z 8422 TID-ou3o8gqo0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-11 12:00:14 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-11 13:42:20 +0000 ===
+2014-06-12T13:44:43Z 16680 TID-oxqlyhns4 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-29 13:56:22 +0000 ===
+2014-06-29T13:56:22Z 5594 TID-rgops INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-29 14:19:56 +0000 ===
+2014-06-29T14:19:56Z 11545 TID-mikuk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-29 14:53:49 +0000 ===
+2014-06-29T14:53:49Z 19303 TID-l1w38 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-30 13:23:38 +0000 ===
+2014-06-30T13:23:40Z 26179 TID-suh8c INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-06-30 14:06:35 +0000 ===
+2014-07-01T11:51:06Z 30505 TID-16ty8w INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-01 13:06:29 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-02 08:48:08 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-02 11:22:02 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-02 12:59:04 +0000 ===
+2014-07-02T12:59:12Z 19067 TID-vzh98 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-02 13:16:01 +0000 ===
+2014-07-02T13:16:43Z 24364 TID-186wqc INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-02 13:28:34 +0000 ===
+2014-07-02T13:28:34Z 29067 TID-124kxk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-04 13:59:05 +0000 ===
+2014-07-04T13:59:17Z 24640 TID-ovjis INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-07-04 14:06:11 +0000 ===
+2014-07-04T14:06:11Z 28711 TID-112okw INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-08-06 13:29:17 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-08-06 13:32:18 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-08-08 06:54:53 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-08-08 07:00:28 +0000 ===
+2014-08-08T11:31:28Z 4948 TID-oudyy8p48 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-10-02 07:24:07 +0000 ===
+2014-10-02T07:26:05Z 6721 TID-oxucg652c INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-10-02 07:36:29 +0000 ===
+2014-10-02T07:36:29Z 10107 TID-15i6v4 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-10-02 07:39:25 +0000 ===
+2014-10-02T07:39:26Z 14618 TID-18gugo INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-10-02 13:55:00 +0000 ===
+2014-10-02T13:55:00Z 12550 TID-eagc8 INFO: Sidekiq client with redis options {}
+undefined method `[]' for nil:NilClass
+#<Savon::Response:0x007f7af4d13c30 @http=#<HTTPI::Response:0x007f7af4d13e88 @code=200, @headers={"date"=>"Thu, 02 Oct 2014 19:11:14 GMT", "server"=>"Apache", "content-length"=>"775", "set-cookie"=>"JSESSIONID=C1W2JtjSSBKJbv1vSKNWm2nZ7vWwwf6ptRTS7QZ79TnMQgLh4wpx!419147467; path=/; HttpOnly", "x-powered-by"=>"Servlet/2.5 JSP/2.1", "content-type"=>"text/xml; charset=utf-8"}, @raw_body="<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><env:Envelope xmlns:soapenc=\"http://schemas.xmlsoap.org/soap/encoding/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:env=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><env:Header><m:sessionID xmlns:tns=\"http://www.opentravel.org/OTA/2003/05/beta\" xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\">-6b31c9b9:148692f0228:-4c64</m:sessionID></env:Header><env:Body><m:processRequestResponse xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"><errorResponse xmlns=\"http://www.opentravel.org/OTA/2003/05/beta\"><requestID>855</requestID><error><message>Error: Session Not Found</message></error></errorResponse></m:processRequestResponse></env:Body></env:Envelope>", @body="<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><env:Envelope xmlns:soapenc=\"http://schemas.xmlsoap.org/soap/encoding/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:env=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><env:Header><m:sessionID xmlns:tns=\"http://www.opentravel.org/OTA/2003/05/beta\" xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\">-6b31c9b9:148692f0228:-4c64</m:sessionID></env:Header><env:Body><m:processRequestResponse xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"><errorResponse xmlns=\"http://www.opentravel.org/OTA/2003/05/beta\"><requestID>855</requestID><error><message>Error: Session Not Found</message></error></errorResponse></m:processRequestResponse></env:Body></env:Envelope>">, @globals=#<Savon::GlobalOptions:0x007f7af4d128d0 @option_type=:global, @options={:encoding=>"UTF-8", :soap_version=>1, :namespaces=>{}, :logger=>#<Logger:0x007f7af4d12858 @progname=nil, @level=0, @default_formatter=#<Logger::Formatter:0x007f7af4d12830 @datetime_format=nil>, @formatter=nil, @logdev=#<Logger::LogDevice:0x007f7af4d127e0 @shift_size=nil, @shift_age=nil, @filename=nil, @dev=#<File:/home/ubuntu/travel-link/shared/log/puma_error.log>, @mutex=#<Logger::LogDevice::LogDeviceMutex:0x007f7af4d127b8 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Mutex:0x007f7af4d12768>>>>, :log=>false, :filters=>[], :pretty_print_xml=>false, :raise_errors=>true, :strip_namespaces=>true, :convert_response_tags_to=>#<Proc:0x007f7af4d126f0@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:81 (lambda)>, :convert_attributes_to=>#<Proc:0x007f7af4d126c8@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:82 (lambda)>, :multipart=>false, :adapter=>nil, :use_wsa_headers=>false, :no_message_tag=>false, :follow_redirects=>false, :wsdl=>"http://staging.timatic.aero/timaticwebservices/timatic3.WSDL", :endpoint=>#<URI::HTTPS:0x007f7af4ee46e0 URL:https://staging.timatic.aero/timaticwebservices/timatic3services>, :soap_header=>"<m:sessionID xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\">-6b31c9b9:148692f0228:-4c64</m:sessionID>"}>, @locals=#<Savon::LocalOptions:0x007f7af4d4faf0 @option_type=:local, @options={:advanced_typecasting=>true, :response_parser=>:nokogiri, :multipart=>false, :message=>{:document_request=>{:requestID=>855, :residentCountryCode=>"us", :nationalityCode=>"us", :issueCountryCode=>"de", :destinationCode=>"br", :documentType=>"passport", :section=>"Passport,Visa", :stayDuration=>{:days=>15}, :documentGroup=>"N", :arrivalDate=>"2014-10-02T00:00:00"}}, :soap_action=>"processRequest"}>, @nori=#<Nori:0x007f7af4d13988 @options={:strip_namespaces=>true, :delete_namespace_attributes=>false, :convert_tags_to=>#<Proc:0x007f7af4d126f0@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:81 (lambda)>, :convert_attributes_to=>#<Proc:0x007f7af4d126c8@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:82 (lambda)>, :advanced_typecasting=>true, :convert_dashes_to_underscores=>true, :parser=>:nokogiri}>, @hash={:envelope=>{:header=>{:session_id=>"-6b31c9b9:148692f0228:-4c64"}, :body=>{:process_request_response=>{:error_response=>{:request_id=>"855", :error=>{:message=>"Error: Session Not Found"}, :@xmlns=>"http://www.opentravel.org/OTA/2003/05/beta"}, :"@xmlns:m"=>"http://www.opentravel.org/OTA/2003/05/beta"}}, :"@xmlns:soapenc"=>"http://schemas.xmlsoap.org/soap/encoding/", :"@xmlns:xsd"=>"http://www.w3.org/2001/XMLSchema", :"@xmlns:env"=>"http://schemas.xmlsoap.org/soap/envelope/", :"@xmlns:xsi"=>"http://www.w3.org/2001/XMLSchema-instance"}}>
+undefined method `[]' for nil:NilClass
+#<Savon::Response:0x007f7af4313fa0 @http=#<HTTPI::Response:0x007f7af431c290 @code=200, @headers={"date"=>"Thu, 02 Oct 2014 19:20:01 GMT", "server"=>"Apache", "content-length"=>"775", "set-cookie"=>"JSESSIONID=MR9BJtlBXJKjwLxvJS2GMhQt7bvpq5Vn1CqPVWcQ3xJ4bJWmzd6Z!419147467; path=/; HttpOnly", "x-powered-by"=>"Servlet/2.5 JSP/2.1", "content-type"=>"text/xml; charset=utf-8"}, @raw_body="<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><env:Envelope xmlns:soapenc=\"http://schemas.xmlsoap.org/soap/encoding/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:env=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><env:Header><m:sessionID xmlns:tns=\"http://www.opentravel.org/OTA/2003/05/beta\" xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\">-6b31c9b9:148692f0228:-4c64</m:sessionID></env:Header><env:Body><m:processRequestResponse xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"><errorResponse xmlns=\"http://www.opentravel.org/OTA/2003/05/beta\"><requestID>856</requestID><error><message>Error: Session Not Found</message></error></errorResponse></m:processRequestResponse></env:Body></env:Envelope>", @body="<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><env:Envelope xmlns:soapenc=\"http://schemas.xmlsoap.org/soap/encoding/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:env=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><env:Header><m:sessionID xmlns:tns=\"http://www.opentravel.org/OTA/2003/05/beta\" xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\">-6b31c9b9:148692f0228:-4c64</m:sessionID></env:Header><env:Body><m:processRequestResponse xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"><errorResponse xmlns=\"http://www.opentravel.org/OTA/2003/05/beta\"><requestID>856</requestID><error><message>Error: Session Not Found</message></error></errorResponse></m:processRequestResponse></env:Body></env:Envelope>">, @globals=#<Savon::GlobalOptions:0x007f7af4d128d0 @option_type=:global, @options={:encoding=>"UTF-8", :soap_version=>1, :namespaces=>{}, :logger=>#<Logger:0x007f7af4d12858 @progname=nil, @level=0, @default_formatter=#<Logger::Formatter:0x007f7af4d12830 @datetime_format=nil>, @formatter=nil, @logdev=#<Logger::LogDevice:0x007f7af4d127e0 @shift_size=nil, @shift_age=nil, @filename=nil, @dev=#<File:/home/ubuntu/travel-link/shared/log/puma_error.log>, @mutex=#<Logger::LogDevice::LogDeviceMutex:0x007f7af4d127b8 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Mutex:0x007f7af4d12768>>>>, :log=>false, :filters=>[], :pretty_print_xml=>false, :raise_errors=>true, :strip_namespaces=>true, :convert_response_tags_to=>#<Proc:0x007f7af4d126f0@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:81 (lambda)>, :convert_attributes_to=>#<Proc:0x007f7af4d126c8@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:82 (lambda)>, :multipart=>false, :adapter=>nil, :use_wsa_headers=>false, :no_message_tag=>false, :follow_redirects=>false, :wsdl=>"http://staging.timatic.aero/timaticwebservices/timatic3.WSDL", :endpoint=>#<URI::HTTPS:0x007f7af4ee46e0 URL:https://staging.timatic.aero/timaticwebservices/timatic3services>, :soap_header=>"<m:sessionID xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\">-6b31c9b9:148692f0228:-4c64</m:sessionID>"}>, @locals=#<Savon::LocalOptions:0x007f7af4359f50 @option_type=:local, @options={:advanced_typecasting=>true, :response_parser=>:nokogiri, :multipart=>false, :message=>{:document_request=>{:requestID=>856, :residentCountryCode=>"us", :nationalityCode=>"us", :issueCountryCode=>"de", :destinationCode=>"br", :documentType=>"passport", :section=>"Passport,Visa", :stayDuration=>{:days=>15}, :documentGroup=>"N", :arrivalDate=>"2014-10-02T00:00:00"}}, :soap_action=>"processRequest"}>, @nori=#<Nori:0x007f7af4313c08 @options={:strip_namespaces=>true, :delete_namespace_attributes=>false, :convert_tags_to=>#<Proc:0x007f7af4d126f0@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:81 (lambda)>, :convert_attributes_to=>#<Proc:0x007f7af4d126c8@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:82 (lambda)>, :advanced_typecasting=>true, :convert_dashes_to_underscores=>true, :parser=>:nokogiri}>, @hash={:envelope=>{:header=>{:session_id=>"-6b31c9b9:148692f0228:-4c64"}, :body=>{:process_request_response=>{:error_response=>{:request_id=>"856", :error=>{:message=>"Error: Session Not Found"}, :@xmlns=>"http://www.opentravel.org/OTA/2003/05/beta"}, :"@xmlns:m"=>"http://www.opentravel.org/OTA/2003/05/beta"}}, :"@xmlns:soapenc"=>"http://schemas.xmlsoap.org/soap/encoding/", :"@xmlns:xsd"=>"http://www.w3.org/2001/XMLSchema", :"@xmlns:env"=>"http://schemas.xmlsoap.org/soap/envelope/", :"@xmlns:xsi"=>"http://www.w3.org/2001/XMLSchema-instance"}}>
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-10-02 19:18:50 +0000 ===
+{:country_code=>"BR", :country_name=>"Brazil", :destination_code=>"br", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passport required. ", :@paragraph_id=>"17454"}, :subsection_information=>{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for the period of intended stay. ", :@paragraph_id=>"1597"}}}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Visa required.", :@paragraph_id=>"17469"}, :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"The validity of long term (1, 3 and 5 years) tourist and business visas starts on the day of issuance. ", :@paragraph_id=>"44003"}, {:paragraph_type=>"Information", :paragraph_text=>"The validity of short term (30, 60, 90 days) tourist and business visas begins from the day of first entry in Brazil.", :@paragraph_id=>"51744"}, {:paragraph_type=>"Information", :paragraph_text=>"Extension of stay possible for visa exempt visitors. ", :@paragraph_id=>"27167"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination.", :@paragraph_id=>"47440"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers registered in passport of companion must hold an individual visa.", :@paragraph_id=>"51745"}, {:paragraph_type=>"Information", :paragraph_text=>"A valid visa in an expired passport is accepted provided:<br></br>- page containing the valid visa has not been invalidated or mutilated and visa is clearly legible;<br></br>- passenger holds a valid passport of the same nationality;<br></br>- a handwritten annotation does not appear in the passport that passenger has been advised to obtain a new visa in valid passport. ", :@paragraph_id=>"51746"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of multiple entry “Temp V\" visa issued by Brazil must:<br></br>- enter Brazil within 1 year of the date of issue of the visa;<br></br>- register with federal police within 30 days and obtain additional stamp in their passport. The expiry date of the visa is specified in the “Prazo\" field of the stamp. For holders of a letter of extension of \"Temp V\" visa (Certidao de Tramite Processual), issued by the Ministry of Justice of Brazil, the new expiry date of the visa will be specified in the \"Valida ate\" field.", :@paragraph_id=>"55705"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward ticket could be refused entry.", :document_child_paragraph=>{:paragraph_type=>"Exception", :paragraph_text=>"Exempt are holders of a \"VIPER\" visa issued by Brazil.", :@paragraph_id=>"52277"}, :@paragraph_id=>"43045"}}]}]}
+2014-10-02T19:18:56Z 1098 TID-ax1lk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-10-02 19:24:32 +0000 ===
+{:country_code=>"FR", :country_name=>"France", :destination_code=>"fr", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"17459"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for at least 3 months beyond the period of intended stay.", :@paragraph_id=>"45173"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Alien minors up to/including 17 years of age can be included in parent's passport, provided travelling with their parents.<br></br>", :@paragraph_id=>"4564"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passports and passport replacing documents issued more than 10 years prior to date of travel are not accepted.", :@paragraph_id=>"52468"}}]}, {:section_name=>"Visa", :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Valid visas in full, invalidated travel documents are accepted provided accompanied by a new travel document. ", :@paragraph_id=>"47556"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Schengen visa is also valid for French Guiana, French West Indies and Reunion, provided endorsed \"Also valid for French territories being in observation of the respective French territories\"."}, :@paragraph_id=>"26009"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"26010"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward tickets could be refused entry. ", :@paragraph_id=>"43159"}}]}]}
+2014-10-02T19:25:51Z 4003 TID-orgwgroe0 INFO: Sidekiq client with redis options {}
+undefined method `[]' for nil:NilClass
+#<Savon::Response:0x00000006c1cec8 @http=#<HTTPI::Response:0x00000006c1d1e8 @code=200, @headers={"date"=>"Thu, 02 Oct 2014 19:47:18 GMT", "server"=>"Apache", "content-length"=>"747", "set-cookie"=>"JSESSIONID=nCTtJtrG2C6vsTCyvnycYWPXnbFsRL2h3VXhgJlzcBZ1n19ZRYtG!419147467; path=/; HttpOnly", "x-powered-by"=>"Servlet/2.5 JSP/2.1", "content-type"=>"text/xml; charset=utf-8"}, @raw_body="<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><env:Envelope xmlns:soapenc=\"http://schemas.xmlsoap.org/soap/encoding/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:env=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><env:Header><m:sessionID xmlns:tns=\"http://www.opentravel.org/OTA/2003/05/beta\" xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"/></env:Header><env:Body><m:processRequestResponse xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"><errorResponse xmlns=\"http://www.opentravel.org/OTA/2003/05/beta\"><requestID>862</requestID><error><message>Error: Session id missing or invalid</message></error></errorResponse></m:processRequestResponse></env:Body></env:Envelope>", @body="<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><env:Envelope xmlns:soapenc=\"http://schemas.xmlsoap.org/soap/encoding/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:env=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><env:Header><m:sessionID xmlns:tns=\"http://www.opentravel.org/OTA/2003/05/beta\" xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"/></env:Header><env:Body><m:processRequestResponse xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"><errorResponse xmlns=\"http://www.opentravel.org/OTA/2003/05/beta\"><requestID>862</requestID><error><message>Error: Session id missing or invalid</message></error></errorResponse></m:processRequestResponse></env:Body></env:Envelope>">, @globals=#<Savon::GlobalOptions:0x00000005db84e0 @option_type=:global, @options={:encoding=>"UTF-8", :soap_version=>1, :namespaces=>{}, :logger=>#<Logger:0x00000005db8328 @progname=nil, @level=0, @default_formatter=#<Logger::Formatter:0x00000005db82d8 @datetime_format=nil>, @formatter=nil, @logdev=#<Logger::LogDevice:0x00000005db80f8 @shift_size=nil, @shift_age=nil, @filename=nil, @dev=#<File:/home/ubuntu/travel-link/shared/log/puma_error.log>, @mutex=#<Logger::LogDevice::LogDeviceMutex:0x00000005db80a8 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Mutex:0x00000005dc7f58>>>>, :log=>false, :filters=>[], :pretty_print_xml=>false, :raise_errors=>true, :strip_namespaces=>true, :convert_response_tags_to=>#<Proc:0x00000005dc7eb8@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:81 (lambda)>, :convert_attributes_to=>#<Proc:0x00000005dc7e90@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:82 (lambda)>, :multipart=>false, :adapter=>nil, :use_wsa_headers=>false, :no_message_tag=>false, :follow_redirects=>false, :wsdl=>"http://staging.timatic.aero/timaticwebservices/timatic3.WSDL", :endpoint=>#<URI::HTTPS:0x00000005fda160 URL:https://staging.timatic.aero/timaticwebservices/timatic3services>, :soap_header=>"<m:sessionID xmlns:m=\"http://www.opentravel.org/OTA/2003/05/beta\"></m:sessionID>"}>, @locals=#<Savon::LocalOptions:0x00000006c72e90 @option_type=:local, @options={:advanced_typecasting=>true, :response_parser=>:nokogiri, :multipart=>false, :message=>{:document_request=>{:requestID=>862, :residentCountryCode=>"us", :nationalityCode=>"us", :issueCountryCode=>"us", :destinationCode=>"fr", :documentType=>"passport", :section=>"Passport,Visa", :stayDuration=>{:days=>22}, :documentGroup=>"N", :arrivalDate=>"2014-10-02T00:00:00"}}, :soap_action=>"processRequest"}>, @nori=#<Nori:0x00000006c1cb30 @options={:strip_namespaces=>true, :delete_namespace_attributes=>false, :convert_tags_to=>#<Proc:0x00000005dc7eb8@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:81 (lambda)>, :convert_attributes_to=>#<Proc:0x00000005dc7e90@/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/savon-2.6.0/lib/savon/options.rb:82 (lambda)>, :advanced_typecasting=>true, :convert_dashes_to_underscores=>true, :parser=>:nokogiri}>, @hash={:envelope=>{:header=>{:session_id=>{:"@xmlns:tns"=>"http://www.opentravel.org/OTA/2003/05/beta", :"@xmlns:m"=>"http://www.opentravel.org/OTA/2003/05/beta"}}, :body=>{:process_request_response=>{:error_response=>{:request_id=>"862", :error=>{:message=>"Error: Session id missing or invalid"}, :@xmlns=>"http://www.opentravel.org/OTA/2003/05/beta"}, :"@xmlns:m"=>"http://www.opentravel.org/OTA/2003/05/beta"}}, :"@xmlns:soapenc"=>"http://schemas.xmlsoap.org/soap/encoding/", :"@xmlns:xsd"=>"http://www.w3.org/2001/XMLSchema", :"@xmlns:env"=>"http://schemas.xmlsoap.org/soap/envelope/", :"@xmlns:xsi"=>"http://www.w3.org/2001/XMLSchema-instance"}}>
+nil
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-10-03 06:38:58 +0000 ===
+{:country_code=>"FR", :country_name=>"France", :destination_code=>"fr", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"17459"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for at least 3 months beyond the period of intended stay.", :@paragraph_id=>"45173"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Alien minors up to/including 17 years of age can be included in parent's passport, provided travelling with their parents.<br></br>", :@paragraph_id=>"4564"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passports and passport replacing documents issued more than 10 years prior to date of travel are not accepted.", :@paragraph_id=>"52468"}}]}, {:section_name=>"Visa", :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Valid visas in full, invalidated travel documents are accepted provided accompanied by a new travel document. ", :@paragraph_id=>"47556"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Schengen visa is also valid for French Guiana, French West Indies and Reunion, provided endorsed \"Also valid for French territories being in observation of the respective French territories\"."}, :@paragraph_id=>"26009"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"26010"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward tickets could be refused entry. ", :@paragraph_id=>"43159"}}]}]}
+2014-10-03T06:41:24Z 6082 TID-ougokkp0g INFO: Sidekiq client with redis options {}
+{:country_code=>"DE", :country_name=>"Germany", :destination_code=>"de", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"21932"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for at least 3 months beyond the period of intended stay.", :@paragraph_id=>"25942"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Minors aged up to/incl. 15 years of age may be included in the passport of a parent or guardian, provided being of the same nationality as the parent or guardian, travelling with the parent or guardian and if the child is 10 years of age or older, a photo and a signature of the registered minor must be included in the passport. Minors aged 16 of age and over are required to hold their own passport or authorized document accepted in lieu of a passport. ", :@paragraph_id=>"22061"}}, {:subsection_name=>"Warning:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Passports must be signed by the holder, unless:<br></br>1. The issuing country permits a fingerprint instead of a signature; or<br></br>2. The passport contains a remark stating that a signature is not required or that the holder cannot sign the passport. ", :@paragraph_id=>"43756"}, {:paragraph_type=>"Information", :paragraph_text=>"Passports and passport replacing documents issued more than 10 years prior to date of travel are not accepted.", :@paragraph_id=>"52468"}]}]}, {:section_name=>"Visa", :subsection_information=>{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Valid visas in full or expired travel documents are accepted provided accompanied by new travel document. However a new passport is not required when the valid visa is in a full but still valid passport.", :@paragraph_id=>"39521"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination.", :@paragraph_id=>"5132"}]}}]}
+{:country_code=>"FR", :country_name=>"France", :destination_code=>"fr", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"17459"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for at least 3 months beyond the period of intended stay.", :@paragraph_id=>"45173"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Alien minors up to/including 17 years of age can be included in parent's passport, provided travelling with their parents.<br></br>", :@paragraph_id=>"4564"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passports and passport replacing documents issued more than 10 years prior to date of travel are not accepted.", :@paragraph_id=>"52468"}}]}, {:section_name=>"Visa", :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Valid visas in full, invalidated travel documents are accepted provided accompanied by a new travel document. ", :@paragraph_id=>"47556"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Schengen visa is also valid for French Guiana, French West Indies and Reunion, provided endorsed \"Also valid for French territories being in observation of the respective French territories\"."}, :@paragraph_id=>"26009"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"26010"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward tickets could be refused entry. ", :@paragraph_id=>"43159"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality."}, :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Those travelling to Tibet will also require a special Tibet Entry Permit.", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+{:country_code=>"BR", :country_name=>"Brazil", :destination_code=>"br", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passport required. ", :@paragraph_id=>"17454"}, :subsection_information=>{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for the period of intended stay. ", :@paragraph_id=>"1597"}}}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Visa required.", :@paragraph_id=>"17469"}, :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"The validity of long term (1, 3 and 5 years) tourist and business visas starts on the day of issuance. ", :@paragraph_id=>"44003"}, {:paragraph_type=>"Information", :paragraph_text=>"The validity of short term (30, 60, 90 days) tourist and business visas begins from the day of first entry in Brazil.", :@paragraph_id=>"51744"}, {:paragraph_type=>"Information", :paragraph_text=>"Extension of stay possible for visa exempt visitors. ", :@paragraph_id=>"27167"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination.", :@paragraph_id=>"47440"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers registered in passport of companion must hold an individual visa.", :@paragraph_id=>"51745"}, {:paragraph_type=>"Information", :paragraph_text=>"A valid visa in an expired passport is accepted provided:<br></br>- page containing the valid visa has not been invalidated or mutilated and visa is clearly legible;<br></br>- passenger holds a valid passport of the same nationality;<br></br>- a handwritten annotation does not appear in the passport that passenger has been advised to obtain a new visa in valid passport. ", :@paragraph_id=>"51746"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of multiple entry “Temp V\" visa issued by Brazil must:<br></br>- enter Brazil within 1 year of the date of issue of the visa;<br></br>- register with federal police within 30 days and obtain additional stamp in their passport. The expiry date of the visa is specified in the “Prazo\" field of the stamp. For holders of a letter of extension of \"Temp V\" visa (Certidao de Tramite Processual), issued by the Ministry of Justice of Brazil, the new expiry date of the visa will be specified in the \"Valida ate\" field.", :@paragraph_id=>"55705"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward ticket could be refused entry.", :document_child_paragraph=>{:paragraph_type=>"Exception", :paragraph_text=>"Exempt are holders of a \"VIPER\" visa issued by Brazil.", :@paragraph_id=>"52277"}, :@paragraph_id=>"43045"}}]}]}
+{:country_code=>"FR", :country_name=>"France", :destination_code=>"fr", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"17459"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for at least 3 months beyond the period of intended stay.", :@paragraph_id=>"45173"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Alien minors up to/including 17 years of age can be included in parent's passport, provided travelling with their parents.<br></br>", :@paragraph_id=>"4564"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passports and passport replacing documents issued more than 10 years prior to date of travel are not accepted.", :@paragraph_id=>"52468"}}]}, {:section_name=>"Visa", :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Valid visas in full, invalidated travel documents are accepted provided accompanied by a new travel document. ", :@paragraph_id=>"47556"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Schengen visa is also valid for French Guiana, French West Indies and Reunion, provided endorsed \"Also valid for French territories being in observation of the respective French territories\"."}, :@paragraph_id=>"26009"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"26010"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward tickets could be refused entry. ", :@paragraph_id=>"43159"}}]}]}
+{:country_code=>"DZ", :country_name=>"Algeria", :destination_code=>"dz", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"19668"}, :subsection_information=>{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for at least 6 months from date of arrival.", :@paragraph_id=>"86"}}}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"19702"}, :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors must hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"88"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward ticket could be refused entry.", :@paragraph_id=>"44317"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality."}, :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Those travelling to Tibet will also require a special Tibet Entry Permit.", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Admission and Transit Restrictions:", :document_paragraph=>{:paragraph_type=>"Restriction", :paragraph_text=>"Admission refused to holders of non-biometric passports issued to nationals of Albania. ", :@paragraph_id=>"47336"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality."}, :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Those travelling to Tibet will also require a special Tibet Entry Permit.", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2014-11-17 14:48:49 +0000 ===
+2014-11-18T20:22:07Z 20567 TID-osld7ohds INFO: Sidekiq client with redis options {}
+{:country_code=>"BR", :country_name=>"Brazil", :destination_code=>"br", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passport required. ", :@paragraph_id=>"17454"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for the period of intended stay. ", :@paragraph_id=>"1597"}}, {:subsection_name=>"Admission and Transit Restrictions:", :document_paragraph=>{:paragraph_type=>"Restriction", :paragraph_text=>"Admission refused to holders of non-biometric passports issued to nationals of Albania. ", :@paragraph_id=>"47336"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Visa required.", :@paragraph_id=>"17469"}, :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"The validity of long term (1, 3 and 5 years) tourist and business visas starts on the day of issuance. ", :@paragraph_id=>"44003"}, {:paragraph_type=>"Information", :paragraph_text=>"The validity of short term (30, 60, 90 days) tourist and business visas begins from the day of first entry in Brazil.", :@paragraph_id=>"51744"}, {:paragraph_type=>"Information", :paragraph_text=>"Extension of stay possible for visa exempt visitors. ", :@paragraph_id=>"27167"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination.", :@paragraph_id=>"47440"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers registered in passport of companion must hold an individual visa.", :@paragraph_id=>"51745"}, {:paragraph_type=>"Information", :paragraph_text=>"A valid visa in an expired passport is accepted provided:<br></br>- page containing the valid visa has not been invalidated or mutilated and visa is clearly legible;<br></br>- passenger holds a valid passport of the same nationality;<br></br>- a handwritten annotation does not appear in the passport that passenger has been advised to obtain a new visa in valid passport. ", :@paragraph_id=>"51746"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of multiple entry “Temp V\" visa issued by Brazil must:<br></br>- enter Brazil within 1 year of the date of issue of the visa;<br></br>- register with federal police within 30 days and obtain additional stamp in their passport. The expiry date of the visa is specified in the “Prazo\" field of the stamp. For holders of a letter of extension of \"Temp V\" visa (Certidao de Tramite Processual), issued by the Ministry of Justice of Brazil, the new expiry date of the visa will be specified in the \"Valida ate\" field.", :@paragraph_id=>"55705"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward ticket could be refused entry.", :document_child_paragraph=>{:paragraph_type=>"Exception", :paragraph_text=>"Exempt are holders of a \"VIPER\" visa issued by Brazil.", :@paragraph_id=>"52277"}, :@paragraph_id=>"43045"}}]}]}
+{:country_code=>"BS", :country_name=>"Bahamas", :destination_code=>"bs", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passport required.", :@paragraph_id=>"18171"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for the period of intended stay. ", :@paragraph_id=>"806"}}, {:subsection_name=>"Admission and Transit Restrictions:", :document_paragraph=>{:paragraph_type=>"Restriction", :paragraph_text=>"Admission refused to holders of non-biometric passports issued to nationals of Albania. ", :@paragraph_id=>"47336"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Visa required.", :@paragraph_id=>"18298"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"<strong>Prior to arrival:</strong> please contact the nearest representation of the Bahamas. British consulates act for the Bahamas in countries where no representation of the Bahamas is established.", :@paragraph_id=>"810"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Extension of stay is possible. ", :@paragraph_id=>"27054"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward tickets could be refused entry.", :@paragraph_id=>"43882"}}]}]}
+- Gracefully stopping, waiting for requests to finish
+- Goodbye!
+=== puma startup: 2015-03-26 15:28:09 +0000 ===
+2015-03-26T17:22:38Z 4120 TID-vako0 INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-26 17:57:52 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-26 18:09:33 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-26 18:34:04 +0000 ===
+2015-03-27T12:37:23Z 19677 TID-9j9dk INFO: Sidekiq client with redis options {}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-27 15:05:22 +0000 ===
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Admission and Transit Restrictions:", :document_paragraph=>{:paragraph_type=>"Restriction", :paragraph_text=>"Admission refused to holders of non-biometric passports issued to nationals of Albania. ", :@paragraph_id=>"47336"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality."}, :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+2015-03-27T15:06:48Z 29836 TID-g8mls INFO: Sidekiq client with redis options {}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Admission and Transit Restrictions:", :document_paragraph=>{:paragraph_type=>"Restriction", :paragraph_text=>"Admission refused to holders of non-biometric passports issued to nationals of Albania. ", :@paragraph_id=>"47336"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality."}, :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-28 20:08:33 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-28 20:11:48 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-30 14:31:14 +0000 ===
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.8.2 (ruby 2.1.2-p95), codename: Sir Edmund Percival Hillary
+* Min threads: 0, max threads: 16
+* Environment: production
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Daemonizing...
+=== puma startup: 2015-03-30 14:35:29 +0000 ===
+* Restarting...
+Refreshing Gemfile
+=== puma startup: 2015-03-30 15:22:30 +0000 ===
+* Listening on unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-30 15:57:00 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+=== puma startup: 2015-03-30 15:58:01 +0000 ===
+* Listening on unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-30 16:09:28 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+=== puma startup: 2015-03-30 16:09:43 +0000 ===
+* Listening on unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-30 16:36:10 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-30 16:44:08 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Admission and Transit Restrictions:", :document_paragraph=>{:paragraph_type=>"Restriction", :paragraph_text=>"Admission refused to holders of non-biometric passports issued to nationals of Albania. ", :@paragraph_id=>"47336"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality."}, :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 14:05:57 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 14:15:25 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 14:22:44 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 14:46:55 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 15:41:13 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 20:34:06 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 20:35:44 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 20:45:14 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-03-31 20:49:28 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+{:country_code=>"RU", :country_name=>"Russian Fed.", :destination_code=>"ru", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passport required.", :@paragraph_id=>"20698"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival. ", :@paragraph_id=>"26080"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"WARNING! In accordance with European Union (EU) Legislation, all minors who are nationals of Hungary will be expected to hold their own passport or National ID Card (where applicable) when departing from Bulgaria, Croatia, Cyprus, Romania or a Schengen Member State . ", :@paragraph_id=>"48241"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"26077"}, :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold documents required for their next destination. <notes_referenceparagraph_id=\"43399\"></notes_reference>", :document_child_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Exempt are holders of a valid visa. ", :@note_type=>"notesRef", :@paragraph_id=>"43399"}, :@paragraph_id=>"43230"}, {:paragraph_type=>"Recommendation", :paragraph_text=>"Visitors are strongly recommended to hold a health/travel insurance to cover for any medical expenses. ", :@paragraph_id=>"11235"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward tickets could be refused entry. <notes_referenceparagraph_id=\"43399\"></notes_reference>", :document_child_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Exempt are holders of a valid visa. ", :@note_type=>"notesRef", :@paragraph_id=>"43399"}, :@paragraph_id=>"43229"}}]}]}
+{:country_code=>"AU", :country_name=>"Australia", :destination_code=>"au", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"17241"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival. ", :@paragraph_id=>"552"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"WARNING! In accordance with European Union (EU) Legislation, all minors who are nationals of Hungary will be expected to hold their own passport or National ID Card (where applicable) when departing from Bulgaria, Croatia, Cyprus, Romania or a Schengen Member State . ", :@paragraph_id=>"48241"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Admission of visitors arriving from Guinea, Liberia or Sierra Leone or who have recently visited those countries is subject to prior approval from Entry Operations Center (EOC). Not applicable to nationals and alien residents of Australia. Check-in staff must contact EOC without delay and not re-attempt check-in at a later time. ", :@paragraph_id=>"57427"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"17290"}, :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Australia issues many visas electronically, including those for visitors, students, temporary business entrants and working holiday makers. There is no visa label contained in the passport, existence of an electronic visa, and therefore authority for airlines to board passengers, is verified by airlines using Australia's Advance Passenger Processing (APP) system prior to boarding and by immigration officials on arrival in Australia. Travellers are responsible to ensure that they have a visa to enter Australia.<br></br>Warning: screen prints of visa issue are not acceptable. ", :@paragraph_id=>"41616"}, {:paragraph_type=>"Information", :paragraph_text=>"Valid visas in full or expired travel documents are accepted if accompanied by new travel document. Verification by airlines using Australia's Advance Passenger Processing (APP) system will require the details fo the travel document that contains the visa. ", :@paragraph_id=>"54875"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Travel between Norfolk Isl. and Australian mainland is processed as international travel as Norfolk Isl., which although a part of Australia, has its own Immigration legislation. ", :@paragraph_id=>"43196"}}]}]}
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-04-01 14:02:58 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-04-01 14:07:05 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+=== puma startup: 2015-04-01 14:07:24 +0000 ===
+* Listening on unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+* Restarting...
+Refreshing Gemfile
+Puma starting in single mode...
+* Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+* Min threads: 0, max threads: 16
+* Environment: production
+* Daemonizing...
+=== puma startup: 2015-04-01 14:11:48 +0000 ===
+* Inherited unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Admission and Transit Restrictions:", :document_paragraph=>{:paragraph_type=>"Restriction", :paragraph_text=>"Admission refused to holders of non-biometric passports issued to nationals of Albania. ", :@paragraph_id=>"47336"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Valid visas or resident permits in expired passports are accepted, provided holding valid passport of the same nationality."}, :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children travelling with a parent or guardian, provided being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is accepted. However, visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>"Valid visas or resident permits in expired passports are accepted if holding valid passport of the same nationality.", :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children travelling on the passport of a parent or guardian, provided their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+{:country_code=>"FR", :country_name=>"France", :destination_code=>"fr", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"17459"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and/or passport replacing documents must be valid for at least 3 months beyond the period of intended stay.", :@paragraph_id=>"45173"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Alien minors up to/including 17 years of age can be included in parent's passport, provided travelling with their parents.<br></br>", :@paragraph_id=>"4564"}}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passports and/or passport replacing documents issued more than 10 years prior to date of travel are not accepted. ", :@paragraph_id=>"52468"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"17916"}, :subsection_information=>[{:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Valid visas in full, invalidated travel documents are accepted provided accompanied by a new travel document. ", :@paragraph_id=>"47556"}, {:paragraph_type=>"Information", :paragraph_text=>{:p=>"Schengen visa is also valid for French Guiana, French West Indies and Reunion, provided endorsed \"Also valid for French territories being in observation of the respective French territories\"."}, :@paragraph_id=>"26009"}, {:paragraph_type=>"Information", :paragraph_text=>"Visitors are required to hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"26010"}]}, {:subsection_name=>"Warning:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Visitors not holding return/onward tickets could be refused entry. ", :@paragraph_id=>"43159"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and other documents accepted for entry must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Minors:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children traveling with a parent or guardian if being registered in the passport of the companion. ", :@paragraph_id=>"46116"}, {:paragraph_type=>"Information", :paragraph_text=>"WARNING! In accordance with European Union (EU) Legislation, all minors who are nationals of Netherlands will be expected to hold their own passport or National ID Card (where applicable) when departing from Bulgaria, Croatia, Cyprus, Romania or a Schengen Member State . ", :@paragraph_id=>"48241"}]}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Exemptions:", :document_paragraph=>{:paragraph_type=>"Exception", :paragraph_text=>"Nationals of Netherlands arriving at Haikou (HAK) or Sanya (SYX) and traveling on an organized tour to Hainan province in a tourist group of 5 or more people for a maximum stay of 15 days. Tours must be organized by a travel agent registered in Hainan province and approved by the National Tourism Administration of China.", :@paragraph_id=>"50577"}}, {:subsection_name=>"Visa Issuance:", :document_paragraph=>[{:paragraph_type=>"Exception", :paragraph_text=>"Holders of normal passports issued to nationals of Netherlands can obtain a visa on arrival for a max. stay of 15 days at Haikou (HAK) or Sanya (SYX), if holding passport valid for at least 6 months on arrival and 2 passport photos. Fee: CNY 200.-. ", :@paragraph_id=>"57510"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of normal passports can obtain a prearranged visa on arrival for a max. stay of 3 months at Beijing (PEK), if: <br></br>- the transporting airline faxes all documents to the station manager prior to arrival.<br></br>- holding confirmation from the Immigration authorities that visa will be issued on arrival; and<br></br>- passport contains at least one blank visa page for the sticker-type visa; and<br></br>- holding two passport photos and a letter of invitation issued by the Chinese authorities or by a sponsor (approved by Chinese authorities), who must meet passenger on arrival. <br></br>Note: A representative of the arriving carrier must be informed before arrival of the flight.<br></br>Fee: varies between CNY 160.- and CNY 606.-. An additional CNY 50.- will be required for a photograph. Extension up to 6 months is possible by an Immigration judge (if coming on business purposes)  ", :@paragraph_id=>"43086"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of normal passports can obtain a prearranged visa on arrival for a max. stay of 1 month at Chengdu (CTU), Fuzhou (FOC), Shanghai (Hongqiao (SHA) and Pudong (PVG)) or Xiamen (XMN), if: <br></br>- holding a letter of invitation issued by the Chinese authorities, confirmation from the Immigration authorities that visa will be issued on arrival, two passport photos and a confirmed return/onward ticket; and <br></br>- passport contains at least one blank visa page; and<br></br>- a sponsor (approved by Chinese authorities) meets passenger on arrival. <br></br>Note: A representative of the arriving carrier must be informed before arrival of the flight.<br></br>Fee: between CNY 160.- and CNY 606.-. <br></br>", :@paragraph_id=>"43088"}, {:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of normal passports can obtain a prearranged visa on arrival at Chongqing (CKG), Guangzhou (CAN), Guilin (KWL), Haikou (HAK), Kunming (KMG), Qingdao (TAO), Sanya (SYX), Shenzhen (SZX), Weihai (WEH), Xi An (XIY) and Yantai (YNT), if: <br></br>- holding confirmation from the Immigration authorities that visa will be issued on arrival; and<br></br>- passport contains at least one blank visa page for the sticker-type visa; and<br></br>- a sponsor (approved by Chinese authorities) meets passenger on arrival.<br></br>Note: A representative of the arriving carrier must be informed before arrival of the flight.<br></br>Fee: varies between CNY 160.- and CNY 606.-. An additional CNY 50.- will be required for a photograph. Extension is possible. <br></br>", :@paragraph_id=>"43089"}]}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is allowed. Visitors must hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>"Valid visas or resident permits in expired passports are accepted if holding valid passport of the same nationality.", :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children traveling on the passport of a parent or guardian, if their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and other documents accepted for entry must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children traveling with a parent or guardian if being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Exemptions:", :document_paragraph=>[{:paragraph_type=>"Exception", :paragraph_text=>"Nationals of USA arriving at Haikou (HAK) or Sanya (SYX) and traveling on an organized tour to Hainan province in a tourist group of 5 or more people for a maximum stay of 15 days. Tours must be organized by a travel agent registered in Hainan province and approved by the National Tourism Administration of China.", :@paragraph_id=>"50577"}, {:paragraph_type=>"Exception", :paragraph_text=>"Tourists traveling in a group organised by a Chinese international tour operator or registered travel agency for a maximum stay of 6 days if:<br></br>- arriving from Hong Kong or Macao to take a trip to the Zhujiang Delta in Guangdong province; and<br></br>- arriving at/departing from Dongguan (DGM), Guangzhou (CAN), Huizhou (HUZ), Shantou (SWA), Shenzhen (SZX) or Zhuhai (ZUH); and<br></br>- being a national of a country having diplomatic relations with China (People's Rep.). ", :@paragraph_id=>"59947"}]}, {:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is allowed. Visitors must hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>"Valid visas or resident permits in expired passports are accepted if holding valid passport of the same nationality.", :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children traveling on the passport of a parent or guardian, if their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and other documents accepted for entry must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children traveling with a parent or guardian if being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Exemptions:", :document_paragraph=>[{:paragraph_type=>"Exception", :paragraph_text=>"Nationals of USA arriving at Haikou (HAK) or Sanya (SYX) and traveling on an organized tour to Hainan province in a tourist group of 5 or more people for a maximum stay of 15 days. Tours must be organized by a travel agent registered in Hainan province and approved by the National Tourism Administration of China.", :@paragraph_id=>"50577"}, {:paragraph_type=>"Exception", :paragraph_text=>"Tourists traveling in a group organised by a Chinese international tour operator or registered travel agency for a maximum stay of 6 days if:<br></br>- arriving from Hong Kong or Macao to take a trip to the Zhujiang Delta in Guangdong province; and<br></br>- arriving at/departing from Dongguan (DGM), Guangzhou (CAN), Huizhou (HUZ), Shantou (SWA), Shenzhen (SZX) or Zhuhai (ZUH); and<br></br>- being a national of a country having diplomatic relations with China (People's Rep.). ", :@paragraph_id=>"59947"}]}, {:subsection_name=>"Visa Issuance:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is allowed. Visitors must hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>"Valid visas or resident permits in expired passports are accepted if holding valid passport of the same nationality.", :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children traveling on the passport of a parent or guardian, if their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}
+{:country_code=>"CN", :country_name=>"China (People's Rep.)", :destination_code=>"cn", :sufficient_documentation=>"Conditional", :section_information=>[{:section_name=>"Passport", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Passport required."}, :@paragraph_id=>"25697"}, :subsection_information=>[{:subsection_name=>"Document Validity:", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>"Passports and other documents accepted for entry must be valid on arrival.", :@paragraph_id=>"25848"}}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"Passport not required for children traveling with a parent or guardian if being registered in the passport of the companion. ", :@paragraph_id=>"46116"}}]}, {:section_name=>"Visa", :document_paragraph=>{:paragraph_type=>"Requirement", :paragraph_text=>{:p=>"Visa required."}, :@paragraph_id=>"25727"}, :subsection_information=>[{:subsection_name=>"Visa Issuance:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Holders of normal passports can obtain a prearranged visa on arrival for a max. stay of 3 months at Beijing (PEK), if: <br></br>- the transporting airline faxes all documents to the station manager prior to arrival.<br></br>- holding confirmation from the Immigration authorities that visa will be issued on arrival; and<br></br>- passport contains at least one blank visa page for the sticker-type visa; and<br></br>- holding two passport photos and a letter of invitation issued by the Chinese authorities or by a sponsor (approved by Chinese authorities), who must meet passenger on arrival. <br></br>Note: A representative of the arriving carrier must be informed before arrival of the flight.<br></br>Fee: varies between CNY 160.- and CNY 606.-. An additional CNY 50.- will be required for a photograph. Extension up to 6 months is possible by an Immigration judge (if coming on business purposes)  ", :@paragraph_id=>"43086"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of normal passports can obtain a prearranged visa on arrival for a max. stay of 1 month at Chengdu (CTU), Fuzhou (FOC), Shanghai (Hongqiao (SHA) and Pudong (PVG)) or Xiamen (XMN), if: <br></br>- holding a letter of invitation issued by the Chinese authorities, confirmation from the Immigration authorities that visa will be issued on arrival, two passport photos and a confirmed return/onward ticket; and <br></br>- passport contains at least one blank visa page; and<br></br>- a sponsor (approved by Chinese authorities) meets passenger on arrival. <br></br>Note: A representative of the arriving carrier must be informed before arrival of the flight.<br></br>Fee: between CNY 160.- and CNY 606.-. <br></br>", :@paragraph_id=>"43088"}, {:paragraph_type=>"Information", :paragraph_text=>"A visa can be obtained on arrival at Hangzhou (HGH), for tourist groups of travel agencies belonging to the Zhejiang Province, for a max. stay of 1 month. Fee: CNY130.-. ", :@paragraph_id=>"41238"}, {:paragraph_type=>"Information", :paragraph_text=>"Holders of normal passports can obtain a prearranged visa on arrival at Chongqing (CKG), Guangzhou (CAN), Guilin (KWL), Haikou (HAK), Kunming (KMG), Qingdao (TAO), Sanya (SYX), Shenzhen (SZX), Weihai (WEH), Xi An (XIY) and Yantai (YNT), if: <br></br>- holding confirmation from the Immigration authorities that visa will be issued on arrival; and<br></br>- passport contains at least one blank visa page for the sticker-type visa; and<br></br>- a sponsor (approved by Chinese authorities) meets passenger on arrival.<br></br>Note: A representative of the arriving carrier must be informed before arrival of the flight.<br></br>Fee: varies between CNY 160.- and CNY 606.-. An additional CNY 50.- will be required for a photograph. Extension is possible. <br></br>", :@paragraph_id=>"43089"}]}, {:subsection_name=>"Additional Information:", :document_paragraph=>[{:paragraph_type=>"Information", :paragraph_text=>"Travel on a one-way ticket is allowed. Visitors must hold proof of sufficient funds to cover their stay and documents required for their next destination. ", :@paragraph_id=>"2557"}, {:paragraph_type=>"Information", :paragraph_text=>"Valid visas or resident permits in expired passports are accepted if holding valid passport of the same nationality.", :@paragraph_id=>"28707"}, {:paragraph_type=>"Information", :paragraph_text=>"When a visa is used, a round entry stamp is placed in the passport (i.e. a used single entry visa contains one round entry stamp, a used double entry visa contains two round entry stamps). ", :@paragraph_id=>"45077"}, {:paragraph_type=>"Information", :paragraph_text=>"Passengers traveling to Tibet must hold a special Tibet Entry Permit. ", :@paragraph_id=>"29931"}]}, {:subsection_name=>"Minors:", :document_paragraph=>{:paragraph_type=>"Information", :paragraph_text=>"An individual visa is not required for children traveling on the passport of a parent or guardian, if their name is endorsed in the visa of the passport holder. ", :@paragraph_id=>"46117"}}]}]}

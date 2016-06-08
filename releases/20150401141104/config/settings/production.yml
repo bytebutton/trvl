@@ -1,0 +1,10 @@
+delivery_method: smtp
+action_mailer:
+  default_url_options:
+    host: travel-link.mobi
+  smtp_settings: &smtp_settings
+    address: smtp.gmail.com
+    port: 25
+    authentication: plain
+    user_name: onfivelabredmine@gmail.com
+    password: ganzales

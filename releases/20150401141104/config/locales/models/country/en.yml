@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    attributes: &country
+      country:
+        name_en: Name
+  simple_form:
+    labels: *country
+    placeholders: *country

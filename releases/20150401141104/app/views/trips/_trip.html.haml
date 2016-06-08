@@ -1,0 +1,29 @@
+.item
+  %legend #{I18n.l(trip.date_from)} - #{I18n.l(trip.date_to)}
+  .row-fluid
+    .span8.margin-bottom-15
+      %p Days away: #{distance_of_time_in_words(Time.zone.now, trip.date_from)}
+      %p Trip length: #{trip.duration_of_stay} days
+      %p Itinerary (Click destination for details)
+      %p
+        = content_tag(:a, trip.to.name, :href => "#details-trip-modal-#{trip.id}", :data => {:toggle => 'modal'})
+        = ": #{I18n.l(trip.date_from)} - #{I18n.l(trip.date_to)}"
+        - if trip.live?
+          (#{link_to('edit', edit_trip_path(trip))} | #{content_tag(:a, 'remove', :href => "#remove-trip-modal-#{trip.id}", :data => {:toggle => 'modal'})})
+      - if trip.purpose.present?
+        %p Purpose: #{trip.purpose.andand.name}
+      - if trip.airport.present?
+        %p Airport: #{trip.airport}
+      = print_visa_status(trip)
+      = add_visa_for_trip if trip.live?
+
+  - if trip.live? && can?(:destroy, trip)
+    = modal_dialog :id     => "remove-trip-modal-#{trip.id}",
+                   :header => { :show_close => true, :dismiss => 'modal', :title => 'Warning' },
+                   :body   => render({:partial => 'trips/modals/remove_trip', :object => trip, :as => :trip}),
+                   :footer => prompt_buttons
+
+  = modal_dialog :id     => "details-trip-modal-#{trip.id}",
+                 :header => { :show_close => true, :dismiss => 'modal', :title => 'Trip Details' },
+                 :body   => render({:partial => 'trips/modals/details_trip', :object => trip, :as => :trip}),
+                 :footer => no_button('Close')

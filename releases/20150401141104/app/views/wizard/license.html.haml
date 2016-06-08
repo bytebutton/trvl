@@ -1,0 +1,7 @@
+- title 'Wizard - Terms'
+= render 'wizard/partials/eula'
+= render(:layout => 'wizard_form_layout') do |f|
+  = f.input :is_agreed_terms, :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox,  :required => true, :validate => true
+
+:javascript
+  window.TravelLink.Widgets.WizardLicense.toggelButton()

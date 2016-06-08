@@ -1,0 +1,155 @@
+@media (max-width: 765px){
+  footer{
+    text-align: center;
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+  .logo_prolink{
+    margin-left: 0px
+  }
+  .headerBottom{
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+  .copyright{
+    padding-left: 0px !important;
+  }
+}
+
+
+
+.main-controls{
+  max-width: 450px;
+  input:not([type='checkbox']), select{
+    width: 80%;
+  }
+}
+
+//@media (max-width: 1120px){
+//  .chosen-container{
+//    width: 80% !important;
+//  }
+////  input:not([type='checkbox']), select{
+////    width: 80%;
+////  }
+//}
+
+@media (max-width: 979px){
+  .main-controls{
+    input:not([type='checkbox']), select, .chosen-container{
+      width: 100% !important;
+    }
+  }
+  .container-fluid{
+    padding-left: 20px !important;
+    padding-right: 20px!important;
+  }
+  .navbar-inverse .nav-collapse .nav>li>a, .navbar-inverse .nav-collapse .dropdown-menu a{
+    color: rgb(255, 255, 255) !important;
+  }
+  .navbar-inverse .nav-collapse .nav>li>a:hover, .navbar-inverse .nav-collapse .dropdown-menu a:hover{
+    background-color: #e08833 !important;
+  }
+}
+
+@media (max-width: 790px){
+  body{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+  .navbar-static-top{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+  }
+  .headerBottom {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+  footer {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 10px !important;
+  }
+}
+
+// Table resize for mobile
+@media (max-width: 977px){
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 12px !important;
+  }
+  .table-condensed td{
+      padding: 4px 1px !important;
+  }
+}
+@media (max-width: 880px){
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 11px !important;
+  }
+}
+
+@media (max-width: 740px){
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 9px !important;
+  }
+}
+
+@media (max-width: 670px){
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 8px !important;
+  }
+}
+@media (max-width: 570px){
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 7px !important;
+  }
+}
+@media (max-width: 500px){
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 6px !important;
+  }
+}
+@media (max-width: 440px)
+{
+  .bs-docs-example > div.tab-content > div.tab-pane > div > table{
+    font-size: 5px !important;
+  }
+}
+@media (max-width: 392px){
+    embed{
+        width: 45px;
+    }
+//    button.DTTT_button {
+//        padding: 3px 5px 3px;
+//        background: none;
+//    }
+}
+@media (max-width: 1200px){
+    .management-tables{
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+    .container {
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 979px){
+    .container{
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 979px) {
+  .form-header{
+    padding-left: 15px;
+  }
+}
+
+@media (max-width: 450px){
+  .table-menu tbody > tr > td > a > span{
+    font-size: 100% !important;
+    margin-top: 0px !important;
+  }
+}

@@ -1,0 +1,19 @@
+- title 'Passport Requests'
+.well
+  %h2 Passport Request (#{I18n.l(@passport_request.created_at, :format => :long)})
+  %p Status: #{processed_status(@passport_request)}
+  - if @passport_request.damaged?
+    %p My passport is damaged and I would like assistance in getting a new passport.
+  - if @passport_request.doesnt_have_blank_pages?
+    %p I do not have two blank pages to accommodate a visa or entry stamps.
+  - if @passport_request.text
+    %h4 Comments:
+    = @passport_request.text
+  %br
+  - if @passport_request.trip
+    %h2 Associated with the trip
+    %p Country: #{@passport_request.trip.to.name}
+    %P Departure Date: #{@passport_request.trip.date_from}
+    %P Arrival Date: #{@passport_request.trip.date_to}
+  %br
+  = cancel_button

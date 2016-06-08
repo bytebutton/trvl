@@ -1,0 +1,13 @@
+%html{:lang => 'en'}
+  = render('layouts/partials/head')
+  %body
+    #wrap
+      = render(:partial => 'layouts/partials/header')
+      .container
+        = bootstrap_flash
+        .container-fluid
+          = yield
+      #push
+      = yield :modal_windows
+    = render('layouts/partials/current_trip_modal')
+    = render('layouts/partials/footer')

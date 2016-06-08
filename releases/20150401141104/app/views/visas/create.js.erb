@@ -1,0 +1,6 @@
+<% if(@visa.errors.present?) %>
+    console.log('<%= @visa.errors.full_messages %>')
+<% else %>
+    $('#add-visa').modal('hide');
+    $('#check-visa').modal('show');
+<% end %>

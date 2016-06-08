@@ -1,0 +1,21 @@
+footer{
+  height: 70px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+html,body{
+  height: 100%;
+}
+
+#wrap{
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -72px;
+}
+
+
+.container-fluid{
+  margin: 0 auto 70px;
+}

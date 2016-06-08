@@ -1,0 +1,11 @@
+- title 'Wizard - Step 1'
+= render(:layout => 'wizard_form_layout') do |f|
+  = render 'shared/error_messages', :object => f.object
+  = form_body({:legend => 'Tell us about yourself'}) do
+    = f.simple_fields_for :profile do |p|
+      = f.input :first_name,                             :required => true, :validate => {:presence => true}
+      = f.input :middle_name
+      = f.input :last_name,                              :required => true, :validate => {:presence => true}
+      = date_input(p, :dob)
+      = p.input :mobile_phone_number,                    :required => true, :validate => {:presence => true}
+      = p.input :secondary_email

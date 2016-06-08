@@ -1,0 +1,7 @@
+- title 'Trips'
+.form-actions
+  = large_block_button({:text => 'Create Trip',     :href => new_trip_path})
+  = large_block_button({:text => 'Current Trip',    :href => current_trips_path})
+  = large_block_button({:text => 'Upcoming Trips',  :href => upcoming_trips_path})
+  = large_block_button({:text => 'Previous Trips',  :href => previous_trips_path})
+  = large_block_button({:text => 'Deleted Trips',   :href => deleted_trips_path})

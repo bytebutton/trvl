@@ -1,0 +1,3 @@
+= form_header("#{@user.full_name}")
+= simple_form_for(@user, :as => :user, :url => manager_company_user_path(params[:company_id], @user.id), :validate => true) do |f|
+  = render :partial => 'users/form', :locals => {:f => f}

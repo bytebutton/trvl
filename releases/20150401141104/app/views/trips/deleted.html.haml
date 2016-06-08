@@ -1,0 +1,5 @@
+- title "Deleted Trip"
+= form_header('Deleted Trips')
+#page
+  = render({:partial => 'trip', :collection => @trips})
+= paginate @trips

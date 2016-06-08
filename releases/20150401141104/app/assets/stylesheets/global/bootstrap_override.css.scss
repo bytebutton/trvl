@@ -1,0 +1,38 @@
+*:not(b){
+  font-weight: normal;
+  border-radius: 0px !important;
+}
+
+.progress{
+  margin-bottom: 0px !important;
+}
+
+.row-fluid [class*="span"]:first-child {
+  margin-left: 0 !important;
+}
+
+form{
+  fieldset{
+    [class*="span"]:first-child {
+      margin-left: 0 !important;
+    }
+  }
+}
+
+.alert{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+abbr {
+  color: #ff0000;
+}
+
+div.label-inline{
+  label{
+    display: inline-block;
+    margin-right: 10px;
+  }
+}

@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    attributes: &request_callback
+      request_callback:
+        is_processed: Processed
+  simple_form:
+    labels: *request_callback
+    placeholders: *request_callback

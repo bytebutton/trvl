@@ -1,0 +1,14 @@
+Dear #{@user.full_name},
+%br
+Welcome to #{SITE_BRAND}! Your profile on #{link_to('Travel-Link', root_url)} has been created.
+%br
+Please click this link to login: #{link_to(root_url, root_url)}
+%br
+Username: #{@user.email}
+%br
+Password: #{@user.password || @password_for_email}
+%br
+You will save your choice of password on your first visit.
+%br
+%br
+If you have problems logging in, please email #{mail_to(Setting.to_email_name, Setting.to_email)}

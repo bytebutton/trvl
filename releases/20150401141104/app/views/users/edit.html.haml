@@ -1,0 +1,4 @@
+= title('My Profile')
+= form_header('My Profile')
+= simple_form_for(@user, :as => :user, :url => user_path(@user), :validate => true) do |f|
+  = render :partial => 'form', :locals => {:f => f}

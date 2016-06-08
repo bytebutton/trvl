@@ -1,0 +1,6 @@
+- if user_signed_in? && current_user.trips.current_by_time.first
+  - trip = current_user.trips.current_by_time.first
+  = modal_dialog :id     => 'current-trip',
+                 :header => { :show_close => true, :dismiss => 'modal', :title => 'Are you taking this trip as planned?' },
+                 :body   => render({:partial => 'trips/trip', :object => trip}),
+                 :footer => link_to('Yes', set_as_current_trip_path(trip), {:method => :put, :class => 'btn'}) + link_to('No', trip_path(trip), {:method => :delete, :class => 'btn'})

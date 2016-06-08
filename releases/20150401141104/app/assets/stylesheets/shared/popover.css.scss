@@ -1,0 +1,19 @@
+div.popover
+{
+  background-color: #f0f0f0;
+  width: 100%;
+}
+div.popover.bottom .arrow:after
+{
+  border-bottom-color: #f0f0f0 !important;
+}
+.popover.top .arrow:after
+{
+  border-top-color: #f0f0f0 !important;
+}
+div.popover-content
+{
+  text-align: center;
+  color: #000000;
+  padding: 3px 3px;
+}

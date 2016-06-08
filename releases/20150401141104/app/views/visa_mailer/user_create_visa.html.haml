@@ -1,0 +1,41 @@
+Hi #{SITE_BRAND},
+%br
+The following user has added a visa to Travel-LINK. This visa needs to be reviewed and verified.
+%br
+%br
+%strong Employee Information
+%br
+Corporation: #{@user.companies_list}
+%br
+Employee: #{@user.full_name}
+%br
+Employee Email Address: #{@user.email}
+%br
+Employee Mobile Number: #{@user.profile.mobile_phone_number}
+%br
+%br
+%strong Visa Information
+%br
+Visa Country Issued by: #{@visa.country.andand.name}
+%br
+Type: #{@visa.purpose.andand.name}
+%br
+Number of Entries: #{@visa.visa_entry.andand.name}
+%br
+Visa Number: #{@visa.number}
+%br
+Visa Issue Date: #{l(@visa.valid_from)}
+%br
+Visa Expiration Date: #{l(@visa.expires_on)}
+%br
+%br
+- if @user.has_passport?
+  %strong Passport Information
+  %br
+  Country of Issue: #{@user.passport.country.andand.name}
+  %br
+  Passport Number: #{@user.passport.number}
+  %br
+  Date of Issue: #{l(@user.passport.valid_from)}
+  %br
+  Date of Expiry: #{l(@user.passport.expires_on)}

@@ -1,0 +1,53 @@
+- title "Timatic API Response"
+%input#trip_id.hidden{type: "hidden", value: @trip.id}
+%fieldset.places
+  %legend
+    The latest trip #{dates_range(@trip)}
+  .row-fluid
+    .span8
+      %p
+        %strong Trip Length: #{@trip.duration_of_stay} days
+      %p
+        %strong Flag:
+        %span.f32
+          %span{:class => "flag #{@trip.to.code.downcase}", :style => 'position: relative; top: -8px;' }
+      = print_section(@trip.to.name, dates_range(@trip))
+      = print_section('State', @trip.state.andand.name)
+      = print_section('State/Province', @trip.province)
+      = print_section('Airport', @trip.airport)
+      %p
+        %strong #{@messages[:required]}
+      %p
+        .controls
+          = timatic_block('visa')
+          = timatic_block('passport')
+%br
+= link_to('Continue', finish_trip_path(@trip), :class => 'btn btn-large  btn-success btn-block')
+= link_to('Cancel', '#cancel-trip', {:class => 'btn btn-large btn-block', 'data-toggle' => 'modal', role: 'button'})
+%br
+-#- if @trip.passport_required
+-#  %legend.text-error
+-#    - if current_user.passport.expires_on > @trip.date_to + 6.months
+-#      Passport assistance
+-#    - else
+-#      According to our records, your passport will expire within 6 months of your last date of stay in #{@trip.to.name}
+-#
+-#  = simple_form_for @trip, :url => update_after_api_response_trip_path(@trip), :html => { :method => :post } do |f|
+-#    = f.input :with_api_request, :as => :hidden, :input_html => { :value => true }
+-#    = f.simple_fields_for :passport_request do |f|
+-#      = render(:partial => 'passport_requests/form', :locals => {:f => f})
+-#      = save_button(f, 'Continue')
+-#      = link_to('Cancel', '#cancel-trip', {:class => 'btn btn-large btn-block', 'data-toggle' => 'modal', role: 'button'})
+
+-#= modal_dialog :id     => 'without-request',
+-#               :header => { :show_close => true, :dismiss => 'modal', :title => 'System message' },
+-#               :body   => 'Are you sure you want to cancel this request for assistance to obtain a visa and/or passport services?',
+-#               :footer => prompt_buttons
+
+= modal_dialog :id     => 'cancel-trip',
+               :header => { :show_close => true, :dismiss => 'modal', :title => 'System message' },
+               :body   => render(:partial => 'trips/modals/remove_trip', :locals => {:trip => @trip}),
+               :footer => prompt_buttons
+
+:javascript
+  window.TravelLink.Forms.TimaticRequest.accordion()

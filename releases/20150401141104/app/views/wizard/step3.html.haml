@@ -1,0 +1,14 @@
+- title 'Wizard - Step 3'
+= render(:layout => 'wizard_form_layout') do |f|
+  = render 'shared/error_messages', :object => f.object
+  = form_body({:legend => 'Tell us where you work'}) do
+    = f.simple_fields_for :profile do |p|
+      = p.input :company
+      = p.input :work_address_line_1
+      = p.input :work_address_line_2
+      = p.input :address_city
+      = p.association :state,           :include_blank => false, :as => :chosen, :input_html => { :class => 'state-selector',    :data => { 'toggle-id' => 2 } }
+      = p.input :address_province,                                               :input_html => { :class => 'province-selector', :data => { 'toggle-id' => 2 } }
+      = p.input :postal_code
+      = p.association :address_country, :include_blank => false, :as => :chosen, :input_html => { :class => 'country-selector',  :data => { 'toggle-id' => 2 } }
+      = p.input :job_title

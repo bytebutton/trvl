@@ -1,0 +1,64 @@
+%strong Trip
+%br
+Destination: #{@trip.to.name}
+%br
+- if @trip.state
+  State: #{@trip.state.andand.name}
+  %br
+
+- if @trip.province.present?
+  State: #{@trip.province}
+  %br
+
+From: #{@trip.from.name}
+%br
+Purpose: #{@trip.purpose.andand.name}
+%br
+Arrival Date: #{l(@trip.date_from)}
+%br
+Departure Date: #{l(@trip.date_to)}
+%br
+- if @trip.airport.present?
+  Departure Airport: #{@trip.airport}
+  %br
+%br
+%strong Employee Information
+%br
+Corporation: #{@user.companies_list}
+%br
+Job Title: #{@user.profile.job_title}
+%br
+HR Manager: #{@user.profile.hr_manager}
+%br
+HR Manager Email: #{@user.profile.hr_manager_email}
+%br
+Employee Name: #{@user.full_name}
+%br
+Gender: #{@user.profile.andand.gender_status}
+%br
+Date of Birth: #{l(@user.profile.dob)}
+%br
+Country of Birth: #{@user.profile.country.andand.name}
+%br
+Nationality: #{@user.profile.nationality.andand.nationality}
+%br
+Mobile Phone Number: #{@user.profile.mobile_phone_number}
+%br
+Email: #{@user.email}
+%br
+Home Address: #{@user.profile.home_address_line_1} #{@user.profile.andand.home_address_line_2}
+%br
+Work Address: #{@user.profile.work_address_line_1} #{@user.profile.andand.work_address_line_2}
+%br
+%br
+
+- if @user.has_passport?
+  %strong Current Passport Information
+  %br
+  Country of Issue: #{@user.passport.country.andand.name}
+  %br
+  Passport Number: #{@user.passport.number}
+  %br
+  Date of Issue: #{l(@user.passport.valid_from)}
+  %br
+  Date of Expiry: #{l(@user.passport.expires_on)}

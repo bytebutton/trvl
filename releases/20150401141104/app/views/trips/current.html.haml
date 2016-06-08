@@ -1,0 +1,3 @@
+- title 'Current Trip'
+= form_header('Current Trip')
+= render({:partial => 'trip', :object => @trip}) if @trip.present?

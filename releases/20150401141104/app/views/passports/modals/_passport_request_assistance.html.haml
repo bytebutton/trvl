@@ -1,0 +1,11 @@
+= simple_form_for(@passport_request) do |f|
+  .label-capitalize-normal
+    = f.input :user_id, :as => :hidden, :input_html => { :value => current_user.id }
+    = f.input :is_assistance, :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox, :label => 'I need a 1st time passport'
+    = f.input :text,    :as => :text_area, :wrapper_html => {:style => 'padding-left: 0px;'}, :label => 'Questions/Comments:'
+    #alert-message
+    = save_button(f,'Continue', :class => 'btn btn-success')
+    = link_to('Cancel', edit_user_path(current_user), :class => 'btn')
+
+:javascript
+  TravelLink.Forms.PassportRequestAssistance.init()

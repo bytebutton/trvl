@@ -1,0 +1,73 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+*= require_tree ./bootstrap
+*= require_tree ./global
+*= require_tree ./vendor
+*= require chosen
+*= require_tree ./shared
+*= require_tree ./views
+
+*= require dataTables/bootstrap/3/jquery.dataTables.bootstrap
+*= require dataTables/extras/dataTables.responsive
+*= require dataTables/extras/dataTables.tableTools
+*= require_self
+ */
+
+.visa-status{
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 13pt;
+  line-height: 1.8;
+}
+
+.ui-datepicker-calendar > thead {
+  color: #222222;
+}
+
+.tab-content {
+  margin-bottom: 25px;
+}
+
+#infscr-loading {
+  position: absolute;
+  margin: 0 auto;
+  z-index: 200;
+  text-align: center;
+}
+
+.pagination{
+  visibility: hidden;
+}
+
+.uploaded-error{
+  width: 150;
+  text-align: center;
+  display: inline-block;
+  color: #ff0000;
+  z-index: 200;
+//  margin-top: -130px
+}
+
+.chosen-container-multi{
+  input.default{
+    height: 25px !important;
+  }
+}
+
+label{
+  text-transform: capitalize;
+}
+
+.label-capitalize-normal{
+  label{
+    text-transform: none;
+  }
+}

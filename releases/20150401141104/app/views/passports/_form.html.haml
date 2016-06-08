@@ -1,0 +1,27 @@
+= simple_form_for(@passport, :html => {:class => 'passport-form'}, :validate => true) do |f|
+  = form_body do
+    = request_status
+    = f.association :country,       :as => :chosen, :include_blank => false
+    = f.association :passport_type, :as => :chosen, :include_blank => false
+    = f.input :number
+    = date_input(f, :valid_from)
+    = date_input(f, :expires_on)
+    = f.input :is_primary, :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox
+    = render('need_passport_request')
+    = image_with_label(f, :passport_bio)
+  = save_button(f)
+  = cancel_button
+
+= modal_dialog :id     => 'passport-request',
+               :header => { :show_close => true, :dismiss => 'modal', :title => 'Passport Request' },
+               :body   => render(:partial => 'passports/modals/passport_request'),
+               :footer => build_buttons(:no => 'Close', :yes => 'Send')
+
+:javascript
+  TravelLink.Forms.Date.changeDateRange({'startDate' : 'passport_valid_from', 'endDate' : 'passport_expires_on'})
+
+  new TravelLink.Classes.ImageSingleUploader({
+    'hiddenField' : 'passport[passport_bio_cache]',
+    'keepedFile'  : #{@passport.passport_bio.to_json},
+    'mounted_as'  : 'passport_bio'
+  })

@@ -1,0 +1,13 @@
+en:
+  activerecord:
+    attributes: &passport
+      passport:
+        country: Country of Issue
+        number: Passport Number
+        valid_from: Issue Date
+        expires_on: Date of Expiry
+        is_primary: Primary Passport
+        passport_bio: Upload Passport Bio
+  simple_form:
+    labels: *passport
+    placeholders: *passport

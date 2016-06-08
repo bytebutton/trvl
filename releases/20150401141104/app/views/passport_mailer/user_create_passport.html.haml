@@ -1,0 +1,31 @@
+Hi #{SITE_BRAND},
+%br
+#{@user.full_name} (#{@user.email}) of #{@user.profile.andand.company} would like to request your assistance getting a first-time passport.
+%br
+%strong Employee Information
+%br
+Corporation: #{@user.profile.andand.company}
+%br
+Job Title: #{@user.profile.andand.job_title}
+%br
+HR Manager: #{@user.profile.andand.hr_manager}
+%br
+HR Manager Email: #{@user.profile.andand.hr_manager_email}
+%br
+Employee Name: #{@user.full_name}
+%br
+Gender: #{@user.profile.andand.gender_status}
+%br
+Date of Birth: #{@user.profile.andand.dob}
+%br
+Country of Birth: #{@user.profile.country.andand.name}
+%br
+Nationality: #{@user.profile.andand.nationality.andand.name}
+%br
+Mobile Phone Number: #{@user.profile.andand.mobile_phone_number}
+%br
+Email: #{@user.email}
+%br
+Home Address: #{@user.profile.andand.home_address_line_1} #{@user.profile.andand.home_address_line_2}
+%br
+Work Address: #{@user.profile.andand.work_address_line_1} #{@user.profile.andand.work_address_line_2}

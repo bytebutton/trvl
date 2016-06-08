@@ -1,0 +1,47 @@
+= simple_form_for(@trip, :validate => true) do |f|
+  = f.input :with_api_request, :as => :hidden, :input_html => { :value => false }
+  = form_body do
+    = render 'shared/error_messages', :object => f.object
+    = half_screen do
+      = f.association :from,                  :include_blank => false, :collection => Country.popular_depart_countries, :as => :chosen
+      = f.association :to,    :as => :chosen, :include_blank => false, :collection => Country.popular_travel_countries, :input_html => { :class => 'country-selector',  :data => { 'toggle-id' => 1 } }
+      = f.association :state, :as => :chosen                                                                          , :input_html => { :class => 'state-selector',    :data => { 'toggle-id' => 1 } }
+      = f.input :province                                                                                             , :input_html => { :class => 'province-selector', :data => { 'toggle-id' => 1 } }
+      = f.association :purpose, :as => :chosen, :collection => Purpose.all.map{|a| [a.name, a.id.to_s, {'data-content' => a.description, 'data-original-title' => "By selecting #{a.name} you are confirming you are traveling for #{a.name} purposes only."}] }, :include_blank =>  true
+      .visa-status
+      = date_input(f, :date_from)
+      = date_input(f, :date_to)
+      = f.input :airport
+      = f.association :transit_country, :as => :chosen, :include_blank => true
+      = date_input(f, :transit_arrival_date, :as => :hidden)
+      = date_input(f, :transit_departure_date, :as => :hidden)
+      %legend Passport Checklist
+      = f.simple_fields_for :passport_request do |pr|
+        = render(:partial => 'passport_requests/form', :locals => {:f => pr})
+
+    = save_button(f, 'Continue')
+    = cancel_button
+
+- content_for :modal_windows do
+  = modal_dialog :id     => 'visa-question',
+                 :header => { :show_close => true, :dismiss => 'modal', :title => 'Do you have a visa?' },
+                 :footer => prompt_buttons
+
+  = modal_dialog :id     => 'check-visa',
+                 :header => { :show_close => true, :dismiss => 'modal', :title => 'Check if you need a visa?' },
+                 :footer => prompt_buttons
+
+  = modal_dialog :id     => 'add-visa',
+                 :header => { :show_close => true, :dismiss => 'modal', :title => 'Add New Visa' },
+                 :body   => render('visas/form'),
+                 :footer => form_buttons
+
+  = modal_dialog :id     => 'purpose-details',
+                 :header => { :show_close => true, :dismiss => 'modal' },
+                 :footer => no_button('OK')
+
+
+:javascript
+  $(document).ready(function(){
+    TravelLink.Forms.Trip.init({"id":"#{@trip.id}"});
+  })

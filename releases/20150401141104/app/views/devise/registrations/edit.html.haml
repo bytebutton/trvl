@@ -1,0 +1,8 @@
+- title 'Change Password'
+= simple_form_for(resource, :as => resource_name, :url => registration_path(resource_name), :html => {:method => :put}, :validate => true) do |f|
+  = form_body({:legend => 'Change Password'}) do
+    = f.input :current_password,      :required => true, :validate => { :presence => true }, :hint => 'we need your current password to confirm your changes'
+    = f.input :password,              :required => true, :autocomplete => 'off'
+    = f.input :password_confirmation, :required => true
+    = save_button(f)
+    = cancel_button

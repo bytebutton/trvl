@@ -1,0 +1,4 @@
+- title 'Manager Companies'
+= form_header 'Manager Companies'
+= table(%w(# Info Actions), render({:partial => 'company', :collection => @companies}))
+= paginate(@companies)

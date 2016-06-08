@@ -1,0 +1,27 @@
+---
+pid: 29043
+config: !ruby/object:Puma::Configuration
+  options:
+    :min_threads: 0
+    :max_threads: 16
+    :quiet: true
+    :debug: false
+    :binds:
+    - unix:/home/ubuntu/travel-link/shared/tmp/sockets/puma.sock
+    :workers: 0
+    :daemon: true
+    :worker_directory: "/home/ubuntu/travel-link/current"
+    :config_file: "/home/ubuntu/travel-link/shared/puma.rb"
+    :mode: :http
+    :worker_timeout: 60
+    :worker_shutdown_timeout: 30
+    :directory: "/home/ubuntu/travel-link/current"
+    :environment: production
+    :pidfile: "/home/ubuntu/travel-link/shared/tmp/pids/puma.pid"
+    :state: "/home/ubuntu/travel-link/shared/tmp/pids/puma.state"
+    :redirect_stdout: "/home/ubuntu/travel-link/shared/log/puma_error.log"
+    :redirect_stderr: "/home/ubuntu/travel-link/shared/log/puma_access.log"
+    :redirect_append: true
+    :preload_app: true
+    :control_auth_token: d69ac8cfcc84cf861144e811629b2157
+    :tag: '20150401141104'

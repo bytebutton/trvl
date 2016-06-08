@@ -1,0 +1,16 @@
+%tr{:id => "passport_request_#{passport_request.id}", :class => 'passport_request'}
+  %td #{passport_request.id}
+  %td{:colspan => passport_request.trip ? 1 : 2 }
+    = build_controls('Created at:', I18n.l(passport_request.created_at, :format => :long))
+    = build_controls('Processed:', boolean_translate(passport_request.is_processed))
+    = build_controls('Damaged:', boolean_translate(passport_request.damaged?))
+    = build_controls('Has free pages:', boolean_translate(passport_request.have_blank_pages))
+  - if passport_request.trip
+    %td
+      %p Associated with the trip
+      = build_controls('Country:', passport_request.trip.to.name)
+      = build_controls('Departure Date:', I18n.l(passport_request.trip.date_from))
+      = build_controls('Arrival Date:', I18n.l(passport_request.trip.date_to))
+  %td
+    = link_to('Show', passport_request, :class => 'btn btn-small btn-success btn-block')
+    = link_to('Remove', passport_request, :method => :delete, :remote => true, :data => { :confirm => 'Are you sure?' }, :class => 'btn btn-danger btn-small btn-block')

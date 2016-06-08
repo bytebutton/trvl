@@ -1,0 +1,96 @@
+.table-menu{
+  border:1px solid black;
+  width: 100%;
+  table-layout: fixed;
+  tbody > tr > td {
+    &.active{
+      a{
+        span{
+          text-shadow: 1px 1px 10px #f4f4f4, 0 0 1em #ffffff;
+        }
+      }
+      background-color: #2e3092;
+      border: 2px solid #000000;
+      border-right: 2px solid #003fe1;
+      border-bottom: 2px solid #003fe1;
+    }
+    border:1px solid black;
+    vertical-align: middle;
+    text-align:center;
+    a:hover, a:hover:focus {
+      text-decoration: none;
+    }
+    a{
+      text-decoration: none;
+      img {
+        width: 25%;
+      }
+      span{
+        text-transform: uppercase;
+        display: block;
+        color: #ffffff;
+        font-size: 140%;
+        margin-top: 15px;
+      }
+    }
+  }
+}
+
+.social-table{
+  width: 100%;
+  background: #e08833;
+  border-collapse: collapse;
+  tbody > tr > td{
+    img{
+      &:hover{
+        background-color: #f1a55e;
+      }
+      width: 100%;
+    }
+    border-bottom: 2px solid #2e3092;
+    border-left: 2px solid #2e3092;
+    border-right: 2px solid #2e3092;
+  }
+}
+
+.DTTT_container{
+  float: right !important;
+}
+
+
+@mixin table-button($image, $image_hover){
+  &:hover{
+    text-shadow: 1px 1px 1px black, 0 0 1em white;
+  }
+  span{
+    font-size: 14px;
+    margin-left: 20px;
+  }
+  width: 60px;
+  embed{
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-image: asset-url($image);
+    &:hover{
+      background-image: asset-url($image_hover);
+    }
+  }
+}
+
+.DTTT_button_csv{
+  @include table-button('buttons/csv.png', 'buttons/csv_hover.png')
+}
+
+.DTTT_button_xls{
+  @include table-button('buttons/xls.png', 'buttons/xls_hover.png')
+}
+
+.DTTT_button_pdf{
+  @include table-button('buttons/pdf.png', 'buttons/pdf_hover.png')
+}
+
+.tabbable{
+  .navbar-inner {
+    padding-top: 20px;
+  }
+}

@@ -1,0 +1,53 @@
+Hi #{SITE_BRAND},
+%br
+#{@user.full_name} (#{@user.email}) of #{@user.profile.company} is in need of passport assistance.
+%br
+%strong Employee Information
+%br
+Corporation: #{@user.profile.company}
+%br
+Job Title: #{@user.profile.job_title}
+%br
+HR Manager: #{@user.profile.hr_manager}
+%br
+HR Manager Email: #{@user.profile.hr_manager_email}
+%br
+Employee Name: #{@user.full_name}
+%br
+Gender: #{@user.profile.andand.gender_status}
+%br
+Date of Birth: #{@user.profile.dob}
+%br
+Country of Birth: #{@user.profile.country.andand.name}
+%br
+Nationality: #{@user.profile.andand.nationality.andand.name}
+%br
+Mobile Phone Number: #{@user.profile.mobile_phone_number}
+%br
+Email: #{@user.email}
+%br
+Home Address: #{@user.profile.home_address_line_1} #{@user.profile.andand.home_address_line_2}
+%br
+Work Address: #{@user.profile.work_address_line_1} #{@user.profile.andand.work_address_line_2}
+%br
+- if @passport
+  %strong Current Passport Information:
+  %br
+  Country of Issue: #{@passport.country.andand.name}
+  %br
+  Passport Number: #{@passport.number}
+  %br
+  Date of Issue: #{l(@passport.valid_from)}
+  %br
+  Date of Expiry: #{l(@passport.expires_on)}
+  %br
+- if @passport_request
+  %strong Assistance Needed:
+  %br
+  - if !@passport_request.doesnt_have_blank_pages? || @passport_request.damaged?
+    %ul
+      - if @passport_request.doesnt_have_blank_pages?
+        %li I do not have two blank pages to accommodate a visa or entry stamps
+      - if @passport_request.damaged?
+        %li My passport is damaged in one of the ways mentioned above and I would like assistance in getting a new passport
+  Comments: #{@passport_request.andand.text}

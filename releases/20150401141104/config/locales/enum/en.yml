@@ -1,0 +1,25 @@
+en:
+  user:
+    wizard_statuses:
+      license: License
+      change_password: Change Password
+      step1: Step 1
+      step2: Step 2
+      step3: Step 3
+      wicked_finish: Wizard Finished
+      active: Active
+
+  manager:
+    wizard_statuses:
+      license: License
+      change_password: Change Password
+      step1: Step 1
+      step2: Step 2
+      step3: Step 3
+      wicked_finish: Wizard Finished
+      active: Active
+
+  user/profile:
+    gender_statuses:
+      male: Male
+      female: Female

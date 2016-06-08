@@ -1,0 +1,19 @@
+= simple_form_for(@visa, :validate => true) do |f|
+  = form_body do
+    = f.association :country,    :include_blank => false, :as => :chosen
+    = f.association :purpose,    :include_blank => false, :as => :chosen
+    = f.association :visa_entry, :include_blank => false, :as => :chosen
+    = f.input :number
+    = date_input(f, :valid_from, :label => 'Issue Date')
+    = date_input(f, :expires_on, :label => 'Expiration Date')
+    = image_with_label(f, :scan)
+  = save_button(f)
+  = cancel_button
+
+:javascript
+  new TravelLink.Classes.ImageSingleUploader({
+    "hiddenField" : "visa[scan_cache]",
+    "keepedFile"  : #{@visa.scan.to_json},
+    "mounted_as"  : "scan"
+  })
+  TravelLink.Forms.Date.changeDateRange({'startDate' : 'visa_valid_from', 'endDate' : 'visa_expires_on'})

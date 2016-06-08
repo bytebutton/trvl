@@ -1,0 +1,7 @@
+en:
+  activerecord:
+    attributes: &secure_message
+      secure_message:
+        text: Message
+  simple_form:
+    labels: *secure_message

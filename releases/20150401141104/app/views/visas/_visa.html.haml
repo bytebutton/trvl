@@ -1,0 +1,24 @@
+%tr{ :id => "visa_#{visa.id}", :class => 'visa' }
+  %td #{visa.id}
+  %td
+    Country:
+    %strong #{visa.country.andand.name}
+
+    %br
+    Number:
+    %strong #{visa.number}
+
+    %br
+    Number of entries:
+    %strong #{visa.visa_entry.andand.name}
+
+    %br
+    Type:
+    %strong #{visa.purpose.andand.name}
+    %br
+    Certified Status:
+    %strong #{visa_status_text(visa)}
+  %td
+    = link_to('Show', visa_path(visa), :class => 'btn btn-small btn-success btn-block')
+    = link_to('Edit', edit_visa_path(visa), :class => 'btn btn-small btn-success btn-block')
+    = link_to('Remove', visa, :method => :delete, :remote => true, :data => { :confirm => 'Are you sure?' }, :class => 'btn btn-danger btn-small btn-block')

@@ -1,0 +1,14 @@
+- title 'Show Visa'
+.well
+  = form_header("Visa to #{@visa.country.andand.name}", :class => '')
+  = fancy_box_image(@visa.scan)
+  = build_controls('Status:', content_tag(:span, 'Certified', {:class => 'label label-warning'})) if @visa.is_certified
+  = build_controls('Status:', '<span class ="label label-success"> Certified </span>'.html_safe)
+  = build_controls('Visa Number:',       @visa.number)
+  = build_controls('Number of entries:', @visa.visa_entry.andand.name)
+  = build_controls('Type:',       @visa.purpose.andand.name)
+  = build_controls('Valid from:', I18n.l(@visa.valid_from))
+  = build_controls('Expires on:', I18n.l(@visa.expires_on))
+  %br
+    = edit_button(@visa)
+    = cancel_button

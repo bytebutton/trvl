@@ -1,0 +1,7 @@
+.label-capitalize-normal
+  %strong Check all boxes that apply.
+  = f.input :user_id,           :as => :hidden, :input_html => { :value => current_user.id }
+  = f.input :is_assistance,     :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox
+  = f.input :have_blank_pages,  :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox
+  = f.input :is_intact,         :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox
+  = f.input :text,              :as => :text_area, :wrapper_html => {:style => 'padding-left: 0px;'}

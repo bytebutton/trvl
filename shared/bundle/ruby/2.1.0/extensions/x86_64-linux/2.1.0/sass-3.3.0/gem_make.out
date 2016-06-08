@@ -1,0 +1,7 @@
+/home/ubuntu/.rvm/rubies/ruby-2.1.0/bin/ruby mkrf_conf.rb 
+Ensuring you have the right version of listen installed.
+Installing listen >= 1.1.0, < 3.0.0
+Building native extensions.  This could take a while...
+Building native extensions.  This could take a while...
+
+/home/ubuntu/.rvm/rubies/ruby-2.1.0/bin/ruby -rubygems /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/rake-10.1.1/bin/rake RUBYARCHDIR=/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/extensions/x86_64-linux/2.1.0/sass-3.3.0 RUBYLIBDIR=/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/extensions/x86_64-linux/2.1.0/sass-3.3.0

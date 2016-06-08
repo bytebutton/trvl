@@ -1,0 +1,45 @@
+en:
+  activerecord:
+    attributes: &user
+      user:
+        password: New Password
+        password_confirmation: New Password Confirmation
+        is_agreed_terms: I agree with Terms of Service
+        avatar: Profile Picture
+        vaccination_certificate: My Shots
+        profile:
+          one: "Profile"
+          other: "Profiles"
+          dob: Date of Birth
+          has_more_nationality: I have other nationalities
+          home_postal_code: Zip/Postal Code
+          postal_code: Zip/Postal Code
+          home_city: City
+          home_state: State
+          home_country: Country
+          home_address_province: State/Province
+          address_city: City
+          address_province: State/Province
+          address_country: Country
+          company: Company Name
+  activerecord:
+    attributes:
+      manager: *user
+  simple_form:
+    labels: *user
+    placeholders:
+      user:
+        first_name: As Shown on Passport
+        middle_name: As Shown on Passport
+        last_name: As Shown on Passport
+        profile:
+          hr_manager_email: name@company.com
+          #Personal Info Fields
+          mobile_phone_number: +1 123-456-7890
+          email: name@yourmail.com
+          secondary_email: name@yourmail.com
+          # Home Info Fields
+          home_address_line_2: Suite or Apartment Number
+          # Work Info Fields
+          work_address_line_1: No P.O. Boxes
+          work_address_line_2: Suite or Apartment Number

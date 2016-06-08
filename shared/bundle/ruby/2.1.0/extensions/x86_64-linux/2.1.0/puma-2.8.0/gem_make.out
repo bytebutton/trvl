@@ -1,0 +1,26 @@
+/home/ubuntu/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling puma_http11.c
+compiling io_buffer.c
+io_buffer.c: In function ‘buf_to_str’:
+io_buffer.c:119:3: warning: pointer targets in passing argument 1 of ‘rb_str_new’ differ in signedness [-Wpointer-sign]
+/home/ubuntu/.rvm/rubies/ruby-2.1.0/include/ruby-2.1.0/ruby/intern.h:704:7: note: expected ‘const char *’ but argument is of type ‘uint8_t *’
+compiling mini_ssl.c
+In file included from mini_ssl.c:3:0:
+/home/ubuntu/.rvm/rubies/ruby-2.1.0/include/ruby-2.1.0/ruby/backward/rubyio.h:2:2: warning: #warning use "ruby/io.h" instead of "rubyio.h" [-Wcpp]
+mini_ssl.c: In function ‘engine_read’:
+mini_ssl.c:111:14: warning: unused variable ‘n’ [-Wunused-variable]
+mini_ssl.c: In function ‘engine_write’:
+mini_ssl.c:134:8: warning: unused variable ‘buf’ [-Wunused-variable]
+compiling http11_parser.c
+ext/http11/http11_parser.rl: In function ‘puma_parser_execute’:
+ext/http11/http11_parser.rl:111:3: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+linking shared-object puma/puma_http11.so
+
+make "DESTDIR=" install
+/usr/bin/install -m 0755 puma_http11.so ./.gem.20140306-23682-1gfsjf3/puma
+installing default puma_http11 libraries

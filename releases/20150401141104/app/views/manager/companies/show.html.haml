@@ -1,0 +1,65 @@
+- title "Manage company #{@company.name}"
+%h1 #{@company.name}
+.bs-docs-example
+  %ul#myTab.nav.nav-tabs
+    %li.active
+      %a{'data-resource' => 'users', 'data-toggle' => 'tab', href: '#users'} Users
+    %li
+      %a{'data-resource' => 'visas', 'data-toggle' => 'tab', href: '#visas'} Visas
+    %li
+      %a{'data-resource' => 'passports', 'data-toggle' => 'tab', href: '#passports'} Passports
+    %li
+      %a{'data-resource' => 'trips', 'data-toggle' => 'tab', href: '#trips'} Trips
+  #myTabContent.tab-content
+    #users.tab-pane.in.active
+      %table.users-table.table.table-condensed
+        %thead
+          %tr
+            %th Companies
+            %th Name
+            %th Client Number
+            %th Email
+            %th Actions
+    #visas.tab-pane
+      %table.visas-table.table.table-condensed
+        %thead
+          %tr
+            %th Companies
+            %th Name
+            %th Client Number
+            %th Visa Number
+            %th Nationality
+            %th Country of visa
+            %th Issue Date
+            %th Expiry Date
+            %th Visa Type
+            %th Number of Entries
+            %th Status
+    #passports.tab-pane
+      %table.passports-table.table.table-condensed
+        %thead
+          %tr
+            %th Companies
+            %th Name
+            %th Client Number
+            %th Nationality
+            %th Passport Number
+            %th Country of Passport
+            %th Issue Date
+            %th Expiry Date
+            %th Passport Request
+    #trips.tab-pane
+      %table.trips-table.table.table-condensed
+        %thead
+          %tr
+            %th Companies
+            %th Name
+            %th Client Number
+            %th Nationality
+            %th Destination
+            %th Dates of Stay
+            %th Visa Required
+            %th Purpose
+
+:javascript
+  TravelLink.Widgets.Managment.init("#{@company.id}")

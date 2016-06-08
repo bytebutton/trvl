@@ -1,0 +1,10 @@
+- title 'Passport Assistance'
+= form_header 'Do you have a valid passport?'
+
+= link_to('Yes', new_passport_path, :class => 'btn btn-primary btn-large')
+= link_to('No', '#passport-request', :class => 'btn btn-primary btn-large', :data => { :toggle => 'modal' })
+
+= modal_dialog :id     => 'passport-request',
+               :header => { :show_close => true, :dismiss => 'modal', :title => 'Request Passport Assistance Section' },
+               :body   => render(:partial => 'passports/modals/passport_request_assistance'),
+               :footer => nil

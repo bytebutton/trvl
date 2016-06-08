@@ -1,0 +1,12 @@
+- title 'Show Passport'
+.well
+  = fancy_box_image(@passport.passport_bio)
+  = build_controls('Status:', content_tag(:span, 'Primary', {:class => 'label label-warning'})) if @passport.is_primary
+  = build_controls('Country:', @passport.country.andand.name)
+  = build_controls('Type:', @passport.passport_type.andand.name)
+  = build_controls('Number:', @passport.number)
+  = build_controls('Valid from:', I18n.l(@passport.valid_from))
+  = build_controls('Expires on:', I18n.l(@passport.expires_on))
+  %br
+    = edit_button(@passport)
+    = cancel_button

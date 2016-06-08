@@ -1,0 +1,34 @@
+.navbar.navbar-inverse.navbar-static-top
+  .navbar-inner
+    .container
+      - if user_signed_in?
+        %a.brand{href: root_url} Travel-LINK
+        %a.btn.btn-navbar{'data-target' => '.nav-collapse', 'data-toggle' => 'collapse'}
+          %span.icon-bar
+          %span.icon-bar
+          %span.icon-bar
+        .nav-collapse.collapse
+          %ul#menu_nav.nav
+            - site_menu.each do |tab|
+              - if tab[:code] == 'admin'
+                %li{:class => active_tab?(tab[:controller])}= link_to(tab[:title], tab[:link]) if current_user.admin?
+              - elsif tab[:code] == 'management'
+                %li{:class => active_tab?(tab[:controller])}= link_to(tab[:title], tab[:link]) if current_user.manager?
+              - else
+                %li{:class => active_tab?(tab[:controller])}= link_to(tab[:title], tab[:link])
+            %li= link_to('Logout', destroy_user_session_path, :method => :delete)
+      - else
+        %a.brand.big-text{href: root_url} Travel-LINK
+        = simple_form_for(resource, :as => resource_name, :url => session_path(resource_name), :html => { :class => 'navbar-form pull-right sign-in-form' }) do |f|
+          .control-group.pull-right
+            = f.input_field :email, :required => false, :autofocus => true, :placeholder => 'Email'
+            = f.input_field :password,  :required => false, :placeholder => 'Password'
+          .form-inline
+            = f.button(:submit, 'Sign in', :class => 'btn btn-primary')
+            = link_to('Forgot your password?', new_password_path(resource_name), :class => 'btn btn-primary') if devise_mapping.recoverable?
+            = f.input :remember_me, :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox, :label => 'Remember Me' if devise_mapping.rememberable?
+
+- if user_signed_in?
+  %p.header-bottom.text-blue
+    LOGGED IN AS
+    %a.navbar-link{href: edit_user_path(current_user)} #{current_user.full_name.upcase}

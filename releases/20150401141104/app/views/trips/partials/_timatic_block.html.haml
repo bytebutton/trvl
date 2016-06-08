@@ -1,0 +1,9 @@
+= content_tag :strong, :id => "show_#{timatic_block}_info".to_sym do
+  = "[-] #{timatic_block.capitalize} Assistance"
+= content_tag :div, :id => "#{timatic_block}_info".to_sym do
+  .controls
+    - @timatic[:subsection_information][timatic_block.to_sym].each do |subsection|
+      = subsection[:label]
+      %ul
+        - subsection[:information].each do |i|
+          %li{:class => i[:type]}= strip_tags(i[:text])

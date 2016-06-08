@@ -1,0 +1,17 @@
+- title "Contact"
+.form-actions
+  = link_to '#request-callback', :id => 'request-btn', :class => 'btn-block btn-orange', 'data-toggle' => 'modal' do
+    = image_tag('buttons/callback.gif')
+  = link_to '#secure-message', :id => 'request-btn', :class => 'btn-block btn-orange', 'data-toggle' => 'modal' do
+    = image_tag('buttons/message.gif')
+
+- content_for :modal_windows do
+  = modal_dialog :id     => 'request-callback',
+                 :header => { :show_close => true, :dismiss => 'modal', :title => 'Request Callback' },
+                 :body   => render('contact/modals/request_callback'),
+                 :footer => build_buttons({:no => 'Close', :yes => 'Sent'})
+
+  = modal_dialog :id     => 'secure-message',
+                 :header => { :show_close => true, :dismiss => 'modal', :title => 'Secure Message' },
+                 :body   => render('contact/modals/secure_message'),
+                 :footer => build_buttons({:no => 'Close', :yes => 'Sent'})

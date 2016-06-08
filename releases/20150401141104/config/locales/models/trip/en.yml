@@ -1,0 +1,14 @@
+en:
+  activerecord:
+    attributes: &trip
+      trip:
+        to: Destination
+        province: State/Province
+        date_from: Departure Date
+        date_to: Arrival Date
+        airport: Departure Airport
+  simple_form:
+    labels: *trip
+    placeholders:
+      trip:
+        airport: 'Example: Changi'

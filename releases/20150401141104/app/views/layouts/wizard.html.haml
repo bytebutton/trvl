@@ -1,0 +1,14 @@
+%html{lang: 'en'}
+  = render('layouts/partials/head')
+  %body
+    #wrap
+      = render(:partial => 'layouts/partials/header')
+      .container
+        = bootstrap_flash
+        .tabbable
+          .navbar-inner
+            = render 'wizard/partials/progress'
+            .container-fluid
+              = yield
+      #push
+    = render('layouts/partials/footer')

@@ -1,0 +1,6 @@
+- if current_user.passport.andand.old?
+  %div.main-controls
+    %strong.text-error You are not eligible to travel, your primary passport is expiring within 12 months or has expired. Please renew your passport
+    %p
+      %a#request-btn.btn.btn-mini{'data-toggle' => 'modal', href: '#passport-request', role: 'button'} Request New Passport
+  %br

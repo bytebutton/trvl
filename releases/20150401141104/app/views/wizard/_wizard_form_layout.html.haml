@@ -1,0 +1,4 @@
+= simple_form_for(current_user, :as => :user, :url => wizard_path, :method => :put) do |f|
+  = yield(f)
+  = save_button(f, 'Save & Continue')
+  = link_to('Back', previous_wizard_path, :class => 'btn btn-large btn-block')

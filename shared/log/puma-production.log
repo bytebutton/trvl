@@ -1,0 +1,54 @@
+Puma starting in single mode...
+* Version 2.7.1, codename: Earl of Sandwich Partition
+* Min threads: 0, max threads: 16
+* Environment: production
+config.eager_load is set to nil. Please update your config/environments/*.rb files accordingly:
+
+  * development - set it to false
+  * test - set it to false (unless you use a tool that preloads your test environment)
+  * production - set it to true
+
+! Unable to load application
+/home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activerecord-4.0.2/lib/active_record/connection_adapters/connection_specification.rb:52:in `resolve_hash_connection': database configuration does not specify adapter (ActiveRecord::AdapterNotSpecified)
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activerecord-4.0.2/lib/active_record/connection_adapters/connection_specification.rb:46:in `resolve_string_connection'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activerecord-4.0.2/lib/active_record/connection_adapters/connection_specification.rb:30:in `spec'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activerecord-4.0.2/lib/active_record/connection_handling.rb:39:in `establish_connection'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activerecord-4.0.2/lib/active_record/railtie.rb:176:in `block (2 levels) in <class:Railtie>'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activesupport-4.0.2/lib/active_support/lazy_load_hooks.rb:38:in `instance_eval'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activesupport-4.0.2/lib/active_support/lazy_load_hooks.rb:38:in `execute_hook'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activesupport-4.0.2/lib/active_support/lazy_load_hooks.rb:28:in `block in on_load'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activesupport-4.0.2/lib/active_support/lazy_load_hooks.rb:27:in `each'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activesupport-4.0.2/lib/active_support/lazy_load_hooks.rb:27:in `on_load'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/activerecord-4.0.2/lib/active_record/railtie.rb:174:in `block in <class:Railtie>'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/railties-4.0.2/lib/rails/initializable.rb:30:in `run'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/railties-4.0.2/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:226:in `block in tsort_each'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:348:in `block (2 levels) in each_strongly_connected_component'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:427:in `each_strongly_connected_component_from'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:347:in `block in each_strongly_connected_component'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:345:in `each'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:345:in `call'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:345:in `each_strongly_connected_component'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:224:in `tsort_each'
+	from /home/ubuntu/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tsort.rb:205:in `tsort_each'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/railties-4.0.2/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/railties-4.0.2/lib/rails/application.rb:215:in `initialize!'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/railties-4.0.2/lib/rails/railtie/configurable.rb:30:in `method_missing'
+	from /home/ubuntu/travel-link/releases/20140208160525/config/environment.rb:5:in `<top (required)>'
+	from config.ru:3:in `require'
+	from config.ru:3:in `block in <main>'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:in `new'
+	from config.ru:in `<main>'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:49:in `eval'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:49:in `new_from_string'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/rack-1.5.2/lib/rack/builder.rb:40:in `parse_file'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/puma-2.7.1/lib/puma/configuration.rb:93:in `app'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/puma-2.7.1/lib/puma/runner.rb:105:in `load_and_bind'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/puma-2.7.1/lib/puma/single.rb:73:in `run'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/puma-2.7.1/lib/puma/cli.rb:442:in `run'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/gems/puma-2.7.1/bin/puma:10:in `<top (required)>'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/bin/puma:23:in `load'
+	from /home/ubuntu/travel-link/shared/bundle/ruby/2.1.0/bin/puma:23:in `<main>'

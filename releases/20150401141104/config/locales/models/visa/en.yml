@@ -1,0 +1,16 @@
+en:
+  activerecord:
+    attributes: &visa
+      visa:
+        country: Country Issued by
+        purpose: Type
+        visa_entry: Number of Entries
+        number: Visa Number
+        valid_from: Issue Date
+        expires_on: Expiration Date
+        scan: View My Visa
+  simple_form:
+    labels: *visa
+    placeholders:
+      visa:
+        number: 'Example: A12345B6789'

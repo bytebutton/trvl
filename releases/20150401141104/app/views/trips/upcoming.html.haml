@@ -1,0 +1,5 @@
+- title "Upcoming Trips"
+= form_header('Upcoming Trips')
+#page
+  = render({:partial => 'trip', :collection => @trips})
+= paginate @trips

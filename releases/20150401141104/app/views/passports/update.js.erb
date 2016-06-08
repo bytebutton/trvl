@@ -1,0 +1,2 @@
+$('.passport-form').replaceWith('<%= escape_javascript(render({:partial => 'passports/form'})) %>');
+location.href = '<%= passport_path(@passport) %>';

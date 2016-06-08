@@ -1,0 +1,68 @@
+= form_body do
+  = f.simple_fields_for :profile do |p|
+    = half_screen do
+      %h4 Personal Information
+      = f.input :first_name, :required => true, :validate => true
+      = f.input :middle_name
+      = f.input :last_name,  :required => true, :validate => true
+      - if my_profile?(@user)
+        = link_to('Change Password', edit_user_registration_path, :class => 'btn btn-mini btn-success')
+        %br
+        %br
+      = p.input :gender_status,        :as => :chosen_enum
+      = date_input(p, :dob)
+      = p.association :country,     :as => :chosen
+      = p.association :nationality, :as => :chosen,     :label_method => :nationality
+      = p.input :has_more_nationality, :as => :boolean, :boolean_style => :inline, :wrapper => :checkbox
+      = p.association :second_nationality, :label_method => :nationality, :include_blank => false, :as => :chosen
+      = p.association :third_nationality,  :label_method => :nationality, :include_blank => false, :as => :chosen
+
+      %h4 Сontact Information
+      = p.input :mobile_phone_number, :required => true, :validate => true
+      = f.input :email, :required => true, :validate => true
+      = p.input :secondary_email
+
+      %h4 Home Address Information
+      = p.input :home_address_line_1,                         :required => true, :validate => true
+      = p.input :home_address_line_2
+      = p.association :home_country, :as => :chosen, :include_blank => false, :required => true, :validate => true, :input_html => { :class => 'country-selector',  :data => { 'toggle-id' => 1 } }
+      = p.association :home_state,   :as => :chosen, :include_blank => false                                      , :input_html => { :class => 'state-selector',    :data => { 'toggle-id' => 1 } }
+      = p.input :home_address_province                                                                            , :input_html => { :class => 'province-selector', :data => { 'toggle-id' => 1 } }
+      = p.input :home_city,                                                   :required => true, :validate => true
+      = p.input :home_postal_code,                                            :required => true, :validate => true
+
+    = half_screen do
+      %h4 Employer Information
+      = image_with_label(f, :avatar)
+      = image_with_label(f, :vaccination_certificate)
+      = content_tag(:p, "Client ID: #{@user.id}")
+      = p.input :company
+      = p.input :job_title
+      = p.input :hr_manager
+      = p.input :hr_manager_email
+
+      %h4 Work Address Information
+      = p.input :work_address_line_1
+      = p.input :work_address_line_2
+      = p.association :address_country, :include_blank => false, :as => :chosen, :input_html => { :class => 'country-selector',  :data => { 'toggle-id' => 2 } }
+      = p.association :state,           :include_blank => false, :as => :chosen, :input_html => { :class => 'state-selector',    :data => { 'toggle-id' => 2 } }
+      = p.input :address_province,                                               :input_html => { :class => 'province-selector', :data => { 'toggle-id' => 2 } }
+      = p.input :address_city
+      = p.input :postal_code
+
+    = save_button(f)
+    = cancel_button
+
+
+:javascript
+  TravelLink.Forms.User.init()
+  avatar_uploader = new TravelLink.Classes.ImageSingleUploader({
+    "hiddenField" : "user[avatar_cache]",
+    "keepedFile"  : #{@user.avatar.to_json},
+    "mounted_as"  : "avatar"
+  })
+  vaccination_certificate = new TravelLink.Classes.ImageSingleUploader({
+    "hiddenField" : "user[vaccination_certificate_cache]",
+    "keepedFile"  : #{@user.vaccination_certificate.to_json},
+    "mounted_as"  : "vaccination_certificate"
+  })

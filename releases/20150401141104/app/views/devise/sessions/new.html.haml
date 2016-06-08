@@ -1,0 +1,47 @@
+- title "Welcome"
+.container-fluid
+  .span7.offset2
+    %h3#title-text.text-center
+      You Are Connected - Pro-Link GLOBAL Mobile
+      %span{style: 'vertical-align: super;font-size: 10pt'} TM
+
+  - if user_signed_in?
+    .span7.offset2
+      %table.table-menu
+        %tbody
+          - site_menu.each_with_index do |tab, i|
+            - if tab[:visible]
+              - if i == 3
+                %tr
+              %td
+                - if tab[:sub_menu].present?
+                  = table_tab(tab, {:data => {:toggle => 'popover', :placement=> 'bottom', :content => get_sub_menu(tab), :html => 'true'}} )
+                - elsif(tab[:code] == 'admin' && cannot?(:access, :rails_admin))
+                  = table_tab(tab, {:not_access => true, :data => {:toggle => 'popover', :placement=> 'top', :content => 'Sorry! You do not have the rights.'}} )
+                - else
+                  = table_tab(tab)
+  .span7.offset2
+    %table.social-table
+      %tr
+        %td
+          %a{href: 'http://www.facebook.com/ProLinkGLOBAL'}
+            = image_tag 'socials/gif/facebook-64.gif', :class => 'social_img'
+        %td
+          %a{href: 'https://plus.google.com/113009018945657451337'}
+            = image_tag 'socials/gif/googleplus-64.gif', :class => 'social_img'
+        %td
+          %a{href: 'http://www.linkedin.com/company/pro-link-global-inc?goback=%2Ecps_1259962218147_1&trk=co_search_results'}
+            = image_tag 'socials/gif/linkedin-64.gif', :class => 'social_img'
+        %td
+          %a{href: 'http://www.pro-linkglobal.com/rss.aspx'}
+            = image_tag 'socials/gif/rss-64.gif', :class => 'social_img'
+        %td
+          %a{href: 'http://twitter.com/ProLinkGLOBAL'}
+            = image_tag 'socials/gif/twitter-64.gif'
+      %tr
+        %td{colspan: '9'}
+          %a{href: 'http://www.pro-linkglobal.com/'}
+            = image_tag 'socials/gif/linkplg.gif', :id => 'linkplg'
+
+:javascript
+  new TravelLink.Classes.LandingPage

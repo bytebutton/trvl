@@ -1,0 +1,12 @@
+%strong #{@user.full_name}, site administrators #{SITE_BRAND} added a visa for you.
+%br
+Visa Number: #{@visa.number}
+%br
+Visa Country: #{@visa.country.andand.name}
+%br
+Dates: #{l(@visa.valid_from)} - #{l(@visa.expires_on)}
+%br
+Visa status: #{@visa.certified? ? 'Certified' : 'Not Certified'}
+
+
+

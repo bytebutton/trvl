@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    attributes: &visa_entry
+      visa_entry:
+        name_en: Name
+  simple_form:
+    labels: *visa_entry
+    placeholders: *visa_entry

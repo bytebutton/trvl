@@ -1,0 +1,4 @@
+- title 'My Passport Requests'
+= form_header 'My Passport Requests'
+= table(['#', 'Passport Requests','', 'Actions'], render({:partial => 'passport_request', :collection => @passport_requests}))
+= paginate(@passport_requests)

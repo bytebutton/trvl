@@ -1,0 +1,4 @@
+- unless params[:id] == 'license'
+  %ul.nav.nav-tabs
+    - (wizard_steps - [:license]).each do |step|
+      = render(:partial => 'wizard/partials/wizard_step_item', :locals => {:step => step})

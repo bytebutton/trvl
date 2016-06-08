@@ -1,0 +1,12 @@
+- title 'Wizard - Step 2'
+= render(:layout => 'wizard_form_layout') do |f|
+  = render 'shared/error_messages', :object => f.object
+  = form_body({:legend => 'Where do you live?'}) do
+    = f.simple_fields_for :profile do |p|
+      = p.input :home_address_line_1,                                             :required => true, :validate => true
+      = p.input :home_address_line_2
+      = p.input :home_city,                                                       :required => true, :validate => true
+      = p.association :home_state,      :as => :chosen, :include_blank => false,                                        :input_html => { :class => 'state-selector',    :data => { 'toggle-id' => 1 } }
+      = p.input :home_address_province,                                                                                 :input_html => { :class => 'province-selector', :data => { 'toggle-id' => 1 } }
+      = p.input :home_postal_code,                                                :required => true, :validate => true
+      = p.association :home_country,    :as => :chosen, :include_blank => false,  :required => true, :validate => true, :input_html => { :class => 'country-selector', :data => { 'toggle-id' => 1 } }

@@ -1,0 +1,11 @@
+<div class="<%= wrapper_class %>" id="<%= index %>">
+
+    <img width="200" height="200" class="img-uploaded img-rounded" src="<%= photo.url %>">
+
+    <button class="close abort_xhr remove-button">&times;</button>
+
+    <% $.each(inputs, function(key, input){ %>
+        <input type="hidden" name="<%= input.name %>" value="<%= input.value %>" class="<%= input.class %>"/>
+    <% }) %>
+
+</div>

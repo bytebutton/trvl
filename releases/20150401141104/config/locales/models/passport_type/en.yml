@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    attributes: &passport_type
+      passport_type:
+        name_en: Name
+  simple_form:
+    labels: *passport_type
+    placeholders: *passport_type

@@ -1,0 +1,7 @@
+Hi #{@passport.user.first_name},
+%br
+Your passport, #{@passport.number}, from #{@passport.country.andand.name} will be expiring on #{l(@passport.expires_on)}.
+%br
+Please contact #{SITE_BRAND} if you would like assistance renewing your passport.
+%br
+This request can be sent from #{link_to(SITE_BRAND, root_url)}.

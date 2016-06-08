@@ -1,0 +1,41 @@
+.text-blue{
+  background-color: #232596;
+}
+
+.big-text{
+  font-size: 30pt !important;
+  padding-top: 30px !important;
+}
+
+.header-bottom{
+  text-align: right;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  -moz-box-shadow:    0px 2px 0px 0px #222222;
+  -webkit-box-shadow: 0px 2px 0px 0px #222222;
+  box-shadow:         0px 2px 0px 0px #222222;
+}
+
+.font-bold{
+  font-weight: bold;
+}
+
+.text-red{
+  color: #ff0000;
+}
+
+.text-green{
+  color: #8cc63f;
+}
+
+.text-orange{
+  color: #ff6d1f;
+}
+
+.list-item{
+  display: list-item;
+}
+
+.exception{
+  color: #ff0000;
+}

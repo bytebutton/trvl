@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    attributes: &purpose
+      purpose:
+        name_en: Name
+  simple_form:
+    labels: *purpose
+    placeholders: *purpose

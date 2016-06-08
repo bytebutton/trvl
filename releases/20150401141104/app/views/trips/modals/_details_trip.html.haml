@@ -1,0 +1,5 @@
+%p Destination: #{trip.to.name}
+%p Dates: #{I18n.l(trip.date_from)} - #{I18n.l(trip.date_to)}
+%p Purpose: #{trip.purpose.andand.name}
+%p
+  = print_visa_status(trip)

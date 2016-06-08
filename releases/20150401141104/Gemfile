@@ -1,0 +1,71 @@
+source 'https://rubygems.org'
+
+# Rails Stack
+gem 'rails', '4.2.1'                                       # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'mysql2'                                               # Use postgresql as the database for Active Record
+gem 'uglifier', '>= 1.3.0'                                 # Use Uglifier as compressor for JavaScript assets
+gem 'coffee-rails', '~> 4.1.0'                             # Use CoffeeScript for .js.coffee assets and views
+gem 'jquery-rails'                                         # Use jquery as the JavaScript library
+gem 'turbolinks'                                           # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
+gem 'jbuilder', '~> 2.0'                                   # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+gem 'sass-rails', '~> 4.0.4'                               # Use SCSS for stylesheets
+
+# Custom Gems
+gem 'puma'                                                 # Thin Ruby WebServer Support
+gem 'jquery-turbolinks'                                    # It's easy and fast way to improve user experience of surfing on your website.
+gem 'inherited_resources'                                  # Inherited Resources speeds up development by making your controllers inherit all restful actions so you just have to focus on what is important. It makes your controllers more powerful and cleaner at the same time.
+gem 'devise'                                               # Devise is a flexible authentication solution for Rails based on Warden
+gem 'devise-async'                                         # provides an easy way to configure Devise to send its emails asynchronously
+gem 'cancancan'                                            # CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access
+gem 'haml-rails'                                           # Haml-rails provides Haml generators for Rails 4
+gem 'carrierwave'                                          # This gem provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails.
+gem 'rmagick', :require => false                           # For crop images
+gem 'simple_form'                                          # Simple Form aims to be as flexible as possible while helping you with powerful components to create your forms.
+gem 'jquery-fileupload-rails'                              # jquery-fileupload-rails is a library that integrates jQuery File Upload for Rails 3.1 Asset Pipeline
+gem 'kaminari'                                             # A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 4
+gem 'paper_trail'                                          # PaperTrail lets you track changes to your models' data. It's good for auditing or versioning
+gem 'rails_admin'                                          # RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
+gem 'sidekiq'                                              # Sidekiq uses threads to handle many jobs at the same time in the same process. It does not require Rails but will integrate tightly with Rails 3/4 to make background processing dead simple.
+gem 'sinatra', :require => false                           # OPTIONAL for Sidekiq => Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort
+gem 'underscore-rails'                                     # Rails 3.1 asset-pipeline gem to provide underscore.js
+gem 'jquery-datatables-rails'                              # This gem packages the jQuery DataTables plugin for easy use with the Rails 3.1+ asset pipleine.
+gem 'ejs'                                                  # EJS templates
+gem 'andand'                                               # check objects on nil
+gem 'email_validator'                                      # email validation extension
+gem 'savon'                                                # SOAP interface gem
+gem 'wicked'                                               # wizard builder gem
+gem 'fancybox2-rails'                                      # This gem vendors jquery fancybox 2 for Rails 4 and greate
+gem 'rails_config'                                         # RailsConfig helps you easily manage environment specific Rails settings in an easy and usable manner
+gem 'whenever', :require => false                          # Whenever is a Ruby gem that provides a clear syntax for writing and deploying cron jobs.
+gem 'redis-rails'                                          # redis-rails provides a full set of stores (Cache, Session, HTTP Cache) for Ruby on Rails. See the main redis-store readme for general guidelines.
+gem 'rubyntlm'                                             # Ruby/NTLM provides message creator and parser for the NTLM authentication
+gem 'rollbar'                                              # Ruby gem for reporting exceptions, errors, and log messages to Rollbar.
+gem 'chosen-rails'                                         # Chosen is a library for making long, unwieldy select boxes more user friendly.
+gem 'browser-timezone-rails'                               # Rails Engine which sets the Rails timezone to the browser's configured timezone for each request.
+
+gem 'client_side_validations',             :github => 'DavyJonesLocker/client_side_validations',             :branch => '4-2-stable'
+gem 'client_side_validations-simple_form', :github => 'DavyJonesLocker/client_side_validations-simple_form', :branch => '3-1-stable'
+
+group :development do
+  gem 'capistrano'                                         # Deployment System Manager
+  gem 'capistrano-rvm'                                     # RVM capistrano receipts
+  gem 'capistrano-rails'                                   # Rails capistrano receipts
+  gem 'capistrano-rails-console'                           # Remote rails console for capistrano
+  gem 'capistrano3-puma'                                   # Puma web-server capistrano receipts
+  gem 'capistrano-sidekiq'                                 # Sidekiq capistrano receipts
+  gem 'better_errors'                                      # More Flexible Errors Pages
+  gem 'quiet_assets'                                       # Disable Assets Logger
+  gem 'jazz_hands',                                        # More Flexible Rails Console
+      :github => 'nixme/jazz_hands',
+      :branch => 'bring-your-own-debugger'
+  gem 'factory_girl_rails'                                 # factory_girl is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies
+end
+
+group :test do
+  gem 'webrat'                                             # Webrat lets you quickly write expressive and robust acceptance tests for a Ruby web application.
+  gem 'rspec-rails'                                        # rspec-rails is a testing framework for Rails 3.x and 4.x.
+  gem 'shoulda-matchers'                                   # shoulda-matchers provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
+  gem 'guard-rspec'                                        # Guard::RSpec allows to automatically & intelligently launch specs when files are modified.
+  gem 'simplecov',             :require => false           # SimpleCov is a code coverage analysis tool for Ruby
+  gem 'spork-rails'                                        # This plugin is for running spork in Ruby-on-Rails applications.
+end

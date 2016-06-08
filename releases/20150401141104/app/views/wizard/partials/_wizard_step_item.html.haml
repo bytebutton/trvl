@@ -1,0 +1,3 @@
+%li.divider-vertical
+%li{:class => (params[:id] ==  step.to_s)? 'active' : ''}
+  = link_to(step.to_s.titleize, wizard_path(step))

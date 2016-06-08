@@ -1,0 +1,18 @@
+%tr{:id => "passport_#{passport.id}", :class => 'passport'}
+  %td #{passport.id}
+  %td
+    Country:
+    %strong #{passport.country.andand.name}
+    %br
+    Dates:
+    %strong #{l(passport.valid_from)} - #{l(passport.expires_on)}
+    %br
+    Number:
+    %strong #{passport.number}
+    %br
+    Primary:
+    %strong #{primary_status(passport)}
+  %td
+    = link_to('Show', passport_path(passport), :class => 'btn btn-small btn-success btn-block')
+    = link_to('Edit', edit_passport_path(passport), :class => 'btn btn-small btn-success btn-block')
+    = link_to('Remove', passport, :method => :delete, :remote => true, :data => { :confirm => 'Are you sure?' }, :class => 'btn btn-danger btn-small btn-block')

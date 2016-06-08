@@ -1,0 +1,12 @@
+en:
+  activerecord:
+    attributes: &passport_request
+      passport_request:
+        is_processed: Processed
+        is_assistance: I would like assistance in renewing my passport.
+        have_blank_pages: I have at least 2 blank/available pages in my passport.
+        is_intact: My passport is in good condition. No frayed or torn edges.
+        text: Comments
+  simple_form:
+    labels: *passport_request
+    placeholders: *passport_request

@@ -1,0 +1,9 @@
+%head
+  %meta{:charset => 'utf-8'}
+  %meta{:content => 'IE=edge', 'http-equiv' => 'X-UA-Compatible'}
+  %meta{:content => 'width=device-width, initial-scale=1.0', :name => 'viewport'}
+  %title= content_for?(:title) ? yield(:title) : 'Travel-LINK'
+  = stylesheet_link_tag('application', {:media => 'all', 'data-turbolinks-track' => true})
+  = render(:partial => 'layouts/partials/bootstrap')
+  = javascript_include_tag('application', {'data-turbolinks-track' => true})
+  = csrf_meta_tags

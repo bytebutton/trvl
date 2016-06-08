@@ -1,0 +1,2 @@
+= simple_form_for @request_callback, :validate => true do |f|
+  = f.input :phone, :input_html => { :value => current_user.profile.mobile_phone_number }
